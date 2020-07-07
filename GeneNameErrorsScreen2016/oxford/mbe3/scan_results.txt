@@ -1,0 +1,472 @@
+http___mbe.oxfordjournals.org___content_suppl_2005_09_13_msj002.DC1_msj002supp1.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2005_10_05_msj029.DC1_msj029supp5.xls/download.xls.txt.0 col:2 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2005_10_05_msj029.DC1_msj029supp5.xls/download.xls.txt.1 col:2 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2005_10_05_msj029.DC1_msj029supp5.xls/download.xls.txt.2 col:2 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2006_03_14_msk002.DC1_msk002supptab1.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2006_03_14_msk002.DC1_msk002supptab1.xls/download.xls.txt.1 col:2 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2006_03_14_msk002.DC1_msk002supptab1.xls/download.xls.txt.2 col:2 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2006_03_27_msk008.DC1_msk008supp1.xls/download.xls.txt.0 col:2 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2006_10_12_msl142.DC1_mbe-06-0424-File001_msl142.xls/download.xls.txt.0 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2006_10_12_msl142.DC1_mbe-06-0424-File001_msl142.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2006_10_14_msl147.DC1_mbe-06-0473-File012_msl147.xls/download.xls.txt.0 col:1 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2006_10_14_msl147.DC1_mbe-06-0473-File012_msl147.xls/download.xls.txt.1 col:1 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2006_10_14_msl147.DC1_mbe-06-0473-File012_msl147.xls/download.xls.txt.2 col:1 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.0 col:4 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.1 col:4 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.2 col:4 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.3 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.3 col:4 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.4 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.4 col:4 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.5 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.5 col:4 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.6 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.6 col:4 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.7 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2007_07_12_msm128.DC1_mbe-07-0312-File002_msm128.xls/download.xls.txt.7 col:4 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2007_11_12_msm247.DC1_mbe-06-0787-File003_msm247.xls/download.xls.txt.0 col:3 species:Dmelanogaster
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	3	2006/12/01
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	3	2006/12/01
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	3	2006/12/01
+http___mbe.oxfordjournals.org___content_suppl_2007_11_12_msm247.DC1_mbe-06-0787-File003_msm247.xls/download.xls.txt.1 col:3 species:Dmelanogaster
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	3	2006/12/01
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	3	2006/12/01
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	3	2006/12/01
+http___mbe.oxfordjournals.org___content_suppl_2007_11_12_msm247.DC1_mbe-06-0787-File004_msm247.xls/download.xls.txt.0 col:3 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2007_11_12_msm247.DC1_mbe-06-0787-File003_msm247.xls/download.xls.txt.2 col:3 species:Dmelanogaster
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	3	2006/12/01
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	3	2006/12/01
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	http://mbe.oxfordjournals.org///content/suppl/2007/11/12/msm247.DC1/mbe-06-0787-File003_msm247.xls	3	2006/12/01
+http___mbe.oxfordjournals.org___content_suppl_2007_11_12_msm247.DC1_mbe-06-0787-File005_msm247.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2007_11_12_msm247.DC1_mbe-06-0787-File005_msm247.xls/download.xls.txt.1 col:2 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2007_11_12_msm247.DC1_mbe-06-0787-File005_msm247.xls/download.xls.txt.2 col:2 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2008_03_29_msn055.DC1_mbe-07-0809-File008_msn055.xls/download.xls.txt.0 col:4 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2008_03_29_msn055.DC1_mbe-07-0809-File009_msn055.xls/download.xls.txt.0 col:4 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2008_05_29_msn126.DC1_mbe-08-0025-File010_msn126.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2008_05_29_msn126.DC1_mbe-08-0025-File010_msn126.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2008_05_29_msn126.DC1_mbe-08-0025-File010_msn126.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2008_05_29_msn126.DC1_mbe-08-0025-File011_msn126.xls/download.xls.txt.0 col:5 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2008_07_03_msn147.DC1_mbe-08-0262-File011_msn147.xls/download.xls.txt.0 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2008_07_03_msn147.DC1_mbe-08-0262-File011_msn147.xls/download.xls.txt.1 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2008_07_03_msn147.DC1_mbe-08-0262-File011_msn147.xls/download.xls.txt.2 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2008_06_03_msn128.DC1_mbe-08-0184-File007_msn128.xls/download.xls.txt.0 col:12 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2008_06_03_msn128.DC1_mbe-08-0184-File007_msn128.xls/download.xls.txt.1 col:12 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2008_06_03_msn128.DC1_mbe-08-0184-File007_msn128.xls/download.xls.txt.2 col:12 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2008_06_03_msn128.DC1_mbe-08-0184-File007_msn128.xls/download.xls.txt.3 col:12 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2008_06_03_msn128.DC1_mbe-08-0184-File007_msn128.xls/download.xls.txt.4 col:12 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2008_06_03_msn128.DC1_mbe-08-0184-File007_msn128.xls/download.xls.txt.5 col:12 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2008_06_03_msn128.DC1_mbe-08-0184-File007_msn128.xls/download.xls.txt.6 col:12 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2008_06_03_msn128.DC1_mbe-08-0184-File007_msn128.xls/download.xls.txt.7 col:12 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2008_06_03_msn128.DC1_mbe-08-0184-File007_msn128.xls/download.xls.txt.8 col:12 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2008_08_27_msn046.DC1_msn046_Supplementary_Table_1.xls/download.xls.txt.0 col:1 species:Celegans
+http___mbe.oxfordjournals.org___content_suppl_2008_08_27_msn046.DC1_msn046_Supplementary_Table_1.xls/download.xls.txt.1 col:1 species:Celegans
+http___mbe.oxfordjournals.org___content_suppl_2008_08_27_msn046.DC1_msn046_Supplementary_Table_1.xls/download.xls.txt.2 col:1 species:Celegans
+http___mbe.oxfordjournals.org___content_suppl_2008_12_19_msn294.DC1_mbe-08-0834-File004_msn294.xls/download.xls.txt.0 col:7 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2009_01_23_msl145.DC1_Supplemental_Table_S3.xls/download.xls.txt.0 col:2 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2009_01_23_msl145.DC1_Supplemental_Table_S3.xls/download.xls.txt.1 col:2 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2009_01_23_msl145.DC1_Supplemental_Table_S3.xls/download.xls.txt.2 col:2 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2009_01_23_msl145.DC1_Supplemental_tables.xls/download.xls.txt.0 col:2 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2009_01_23_msl145.DC1_Supplemental_tables.xls/download.xls.txt.1 col:2 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2009_01_23_msl145.DC1_Supplemental_tables.xls/download.xls.txt.2 col:2 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2009_01_23_msl145.DC1_Supplemental_tables.xls/download.xls.txt.3 col:2 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2009_01_23_msl145.DC1_Supplemental_tables.xls/download.xls.txt.4 col:2 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2009_01_31_msp021.DC1_mbe-08-0744-File008_msp021.xls/download.xls.txt.0 col:2 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2009_02_26_msp039.DC1_mbe-09-0093-File014.xls/download.xls.txt.0 col:4 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2009_02_26_msp039.DC1_mbe-09-0093-File014.xls/download.xls.txt.1 col:4 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2009_02_26_msp039.DC1_mbe-09-0093-File014.xls/download.xls.txt.2 col:4 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2009_08_26_msp191.DC1_mbe-09-0359-File006_msp191.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2009_08_30_msp197.DC1_mbe-09-0473-File006_msp197.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2009_08_30_msp197.DC1_mbe-09-0473-File008_msp197.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2009_11_25_msp288.DC1_mbe-09-0678-File009.xls/download.xls.txt.0 col:4 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2010_01_13_msq007.DC1_mbe-09-0808-File007.xls/download.xls.txt.0 col:1 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2010_01_13_msq007.DC1_mbe-09-0808-File007.xls/download.xls.txt.0 col:4 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2010_01_13_msq007.DC1_mbe-09-0808-File007.xls/download.xls.txt.0 col:7 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2010_01_13_msq007.DC1_mbe-09-0808-File007.xls/download.xls.txt.0 col:10 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2010_01_13_msq007.DC1_mbe-09-0808-File007.xls/download.xls.txt.0 col:13 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2010_01_13_msq007.DC1_mbe-09-0808-File008.xls/download.xls.txt.0 col:2 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2010_01_13_msq007.DC1_mbe-09-0808-File009.xls/download.xls.txt.0 col:2 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2010_01_13_msq007.DC1_mbe-09-0808-File010.xls/download.xls.txt.0 col:2 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2010_02_09_msq046.DC1_mbe-09-0781-File006.xls/download.xls.txt.0 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2010_02_09_msq046.DC1_mbe-09-0781-File006.xls/download.xls.txt.1 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2010_02_09_msq046.DC1_mbe-09-0781-File006.xls/download.xls.txt.2 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2010_03_01_msq065.DC1_mbe-09-0851-File006.xls/download.xls.txt.0 col:1 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2010_03_01_msq065.DC1_mbe-09-0851-File006.xls/download.xls.txt.1 col:1 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2010_04_02_msq090.DC1_mbe-10-0087-File004.xls/download.xls.txt.0 col:2 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2010_04_02_msq090.DC1_mbe-10-0087-File004.xls/download.xls.txt.1 col:2 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2010_04_02_msq090.DC1_mbe-10-0087-File004.xls/download.xls.txt.2 col:2 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2010_04_02_msq090.DC1_mbe-10-0087-File004.xls/download.xls.txt.3 col:2 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2010_05_20_msq128.DC1_mbe-10-0174-File010.xls/download.xls.txt.0 col:28 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_05_20_msq128.DC1_mbe-10-0174-File010.xls/download.xls.txt.1 col:28 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_05_20_msq128.DC1_mbe-10-0174-File010.xls/download.xls.txt.2 col:28 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_05_20_msq128.DC1_mbe-10-0174-File010.xls/download.xls.txt.3 col:28 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_05_20_msq128.DC1_mbe-10-0174-File010.xls/download.xls.txt.4 col:28 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_05_20_msq128.DC1_mbe-10-0174-File010.xls/download.xls.txt.5 col:28 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_06_09_msq146.DC1_mbe-10-0072-File011.xls/download.xls.txt.0 col:3 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2010_06_09_msq146.DC1_mbe-10-0072-File011.xls/download.xls.txt.1 col:3 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2010_06_09_msq146.DC1_mbe-10-0072-File012.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2010_06_17_msq157.DC1_mbe-10-0353-File003.xls/download.xls.txt.0 col:6 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_06_17_msq157.DC1_mbe-10-0353-File003.xls/download.xls.txt.1 col:6 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_06_17_msq157.DC1_mbe-10-0353-File003.xls/download.xls.txt.2 col:6 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_06_17_msq157.DC1_mbe-10-0353-File003.xls/download.xls.txt.3 col:6 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_06_17_msq157.DC1_mbe-10-0353-File003.xls/download.xls.txt.4 col:6 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_06_17_msq157.DC1_mbe-10-0353-File003.xls/download.xls.txt.5 col:6 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_06_17_msq157.DC1_mbe-10-0353-File003.xls/download.xls.txt.6 col:6 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_06_17_msq157.DC1_mbe-10-0353-File003.xls/download.xls.txt.7 col:6 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_07_19_msq181.DC1_mbe-10-0444-File006.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_07_19_msq181.DC1_mbe-10-0444-File008.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_07_19_msq181.DC1_mbe-10-0444-File009.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_07_27_msq197.DC1_mbe-10-0210-File007.xlsx/download.xlsx.txt.0 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2010_07_27_msq197.DC1_mbe-10-0210-File007.xlsx/download.xlsx.txt.1 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2010_08_12_msq214.DC1_mbe-10-0544-File008.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_08_12_msq214.DC1_mbe-10-0544-File008.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_08_12_msq214.DC1_mbe-10-0544-File008.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_08_27_msq231.DC1_mbe-10-0454-File010.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_08_27_msq231.DC1_mbe-10-0454-File010.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_08_27_msq231.DC1_mbe-10-0454-File010.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_09_29_msq257.DC1_mbe-10-0581-File011.xls/download.xls.txt.0 col:7 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_09_29_msq257.DC1_mbe-10-0581-File011.xls/download.xls.txt.1 col:7 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_09_29_msq257.DC1_mbe-10-0581-File011.xls/download.xls.txt.2 col:7 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_09_29_msq257.DC1_mbe-10-0581-File011.xls/download.xls.txt.3 col:7 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_09_29_msq257.DC1_mbe-10-0581-File011.xls/download.xls.txt.4 col:7 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_09_29_msq257.DC1_mbe-10-0581-File011.xls/download.xls.txt.5 col:7 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_09_29_msq257.DC1_mbe-10-0581-File011.xls/download.xls.txt.6 col:7 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_09_29_msq257.DC1_mbe-10-0581-File011.xls/download.xls.txt.7 col:7 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_09_29_msq257.DC1_mbe-10-0581-File011.xls/download.xls.txt.8 col:7 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2010_10_14_msq270.DC1_MBE-10-0565.R1_SuppFile_S3.xls/download.xls.txt.0 col:3 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2010_11_08_msq299.DC1_mbe-10-0829-File002.xls/download.xls.txt.0 col:2 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2010_11_08_msq299.DC1_mbe-10-0829-File003.xls/download.xls.txt.0 col:2 species:Mmusculus
+http___mbe.oxfordjournals.org___content_suppl_2011_04_07_msr027.DC1_Suppl_table_2.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_04_07_msr027.DC1_Suppl_table_3.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_04_07_msr027.DC1_Suppl_table_4.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_05_05_msr127.DC1_SupplementaryFile2.xls/download.xls.txt.0 col:2 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2011_05_05_msr127.DC1_SupplementaryFile2.xls/download.xls.txt.1 col:2 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2011_05_05_msr127.DC1_SupplementaryFile2.xls/download.xls.txt.2 col:2 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2011_05_05_msr127.DC1_SupplementaryFile2.xls/download.xls.txt.3 col:2 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2011_05_05_msr127.DC1_SupplementaryFile2.xls/download.xls.txt.4 col:2 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2011_05_05_msr127.DC1_SupplementaryFile2.xls/download.xls.txt.5 col:2 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2011_08_03_msr193.DC1_VenablesMBE_11_0136_Supplementary_Tables.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_08_03_msr193.DC1_VenablesMBE_11_0136_Supplementary_Tables.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_08_03_msr193.DC1_VenablesMBE_11_0136_Supplementary_Tables.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_08_03_msr193.DC1_VenablesMBE_11_0136_Supplementary_Tables.xls/download.xls.txt.3 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_08_03_msr193.DC1_VenablesMBE_11_0136_Supplementary_Tables.xls/download.xls.txt.4 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_09_02_msr219.DC1_MBE_457_suppfile7_revised.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2011_09_02_msr219.DC1_MBE_457_suppfile7_revised.xls/download.xls.txt.0 col:5 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2011_09_23_msr143.DC1_S_Table5.xls/download.xls.txt.0 col:3 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2011_09_23_msr143.DC1_S_Table6.xls/download.xls.txt.0 col:3 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2011_09_23_msr143.DC1_S_Table5.xls/download.xls.txt.1 col:3 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2011_09_23_msr143.DC1_S_Table6.xls/download.xls.txt.1 col:3 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2011_09_23_msr143.DC1_S_Table6.xls/download.xls.txt.2 col:3 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2011_09_23_msr143.DC1_S_Table5.xls/download.xls.txt.2 col:3 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2011_10_02_msr245.DC1_Supplemental_TableS4.xls/download.xls.txt.0 col:2 species:Rnorvegicus
+http___mbe.oxfordjournals.org___content_suppl_2011_10_02_msr245.DC1_Supplemental_TableS4.xls/download.xls.txt.1 col:2 species:Rnorvegicus
+http___mbe.oxfordjournals.org___content_suppl_2011_10_02_msr245.DC1_Supplemental_TableS4.xls/download.xls.txt.2 col:2 species:Rnorvegicus
+http___mbe.oxfordjournals.org___content_suppl_2011_11_21_msr288.DC1_MSR288_Supplemental_Data_1.xls/download.xls.txt.0 col:5 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2011_11_21_msr288.DC1_MSR288_Supplemental_Data_1.xls/download.xls.txt.0 col:7 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2011_11_21_msr288.DC1_MSR288_Supplemental_Data_1.xls/download.xls.txt.1 col:5 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2011_11_21_msr288.DC1_MSR288_Supplemental_Data_1.xls/download.xls.txt.1 col:7 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2011_11_21_msr288.DC1_MSR288_Supplemental_Table_S2.xls/download.xls.txt.0 col:4 species:Rnorvegicus
+http___mbe.oxfordjournals.org___content_suppl_2011_11_21_msr288.DC1_MSR288_Supplemental_Table_S2.xls/download.xls.txt.0 col:5 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2011_11_24_msr294.DC1_MSR294_S2.xls/download.xls.txt.0 col:47 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2011_11_24_msr294.DC1_MSR294_S2.xls/download.xls.txt.1 col:47 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2011_11_24_msr294.DC1_MSR294_S2.xls/download.xls.txt.2 col:47 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2011_11_24_msr294.DC1_MSR294_S2.xls/download.xls.txt.3 col:47 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2011_11_30_msr298.DC1_MSR298_TableS2.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_11_30_msr298.DC1_MSR298_TableS2.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_11_30_msr298.DC1_MSR298_TableS2.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_11_30_msr298.DC1_MSR298_TableS3.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_11_30_msr298.DC1_MSR298_TableS3.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_11_30_msr298.DC1_MSR298_TableS4.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_11_30_msr298.DC1_MSR298_TableS3.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_11_30_msr298.DC1_MSR298_TableS4.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2011_11_30_msr298.DC1_MSR298_TableS4.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_01_04_mss001.DC1_Table_S4-Summary_of_separate_model_test.xls/download.xls.txt.0 col:1 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.0 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.0 col:3 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.0 col:6 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.0 col:8 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.1 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.1 col:3 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.1 col:6 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.1 col:8 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.2 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.2 col:3 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.2 col:6 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.2 col:8 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.3 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.3 col:3 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.3 col:6 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_15_mss096.DC1_MSS096_Supplementary_Datasets.xlsx/download.xlsx.txt.3 col:8 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_03_28_mss105.DC1_MSS105_MPR_data_table.xls/download.xls.txt.0 col:7 species:Rnorvegicus
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2012/03/28/mss105.DC1/MSS105_MPR_data_table.xls	http://mbe.oxfordjournals.org///content/suppl/2012/03/28/mss105.DC1/MSS105_MPR_data_table.xls	7	2012/09/14
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2012/03/28/mss105.DC1/MSS105_MPR_data_table.xls	http://mbe.oxfordjournals.org///content/suppl/2012/03/28/mss105.DC1/MSS105_MPR_data_table.xls	7	2012/09/14
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2012/03/28/mss105.DC1/MSS105_MPR_data_table.xls	http://mbe.oxfordjournals.org///content/suppl/2012/03/28/mss105.DC1/MSS105_MPR_data_table.xls	7	2012/03/08
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2012/03/28/mss105.DC1/MSS105_MPR_data_table.xls	http://mbe.oxfordjournals.org///content/suppl/2012/03/28/mss105.DC1/MSS105_MPR_data_table.xls	7	2012/03/08
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2012/03/28/mss105.DC1/MSS105_MPR_data_table.xls	http://mbe.oxfordjournals.org///content/suppl/2012/03/28/mss105.DC1/MSS105_MPR_data_table.xls	7	2012/09/01
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2012/03/28/mss105.DC1/MSS105_MPR_data_table.xls	http://mbe.oxfordjournals.org///content/suppl/2012/03/28/mss105.DC1/MSS105_MPR_data_table.xls	7	2012/09/09
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2012/03/28/mss105.DC1/MSS105_MPR_data_table.xls	http://mbe.oxfordjournals.org///content/suppl/2012/03/28/mss105.DC1/MSS105_MPR_data_table.xls	7	2012/09/09
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.1 col:3 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.2 col:3 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.3 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.3 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.3 col:3 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.4 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.4 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.4 col:3 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.5 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.5 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_05_mss144.DC1_Table_S5.xls/download.xls.txt.5 col:3 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2012_06_11_mss150.DC1_Supplementary_Table_S3.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_06_11_mss150.DC1_Supplementary_Table_S4.xls/download.xls.txt.0 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_06_11_mss150.DC1_Supplementary_Table_S4.xls/download.xls.txt.1 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_07_31_mss178.DC1_Tardif_supplemental_Tables_S1-9.xls/download.xls.txt.0 col:12 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2012_07_31_mss178.DC1_Tardif_supplemental_Tables_S1-9.xls/download.xls.txt.1 col:12 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2012_07_31_mss178.DC1_Tardif_supplemental_Tables_S1-9.xls/download.xls.txt.2 col:12 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2012_07_31_mss178.DC1_Tardif_supplemental_Tables_S1-9.xls/download.xls.txt.3 col:12 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2012_07_31_mss178.DC1_Tardif_supplemental_Tables_S1-9.xls/download.xls.txt.4 col:12 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2012_07_31_mss178.DC1_Tardif_supplemental_Tables_S1-9.xls/download.xls.txt.5 col:12 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2012_07_31_mss178.DC1_Tardif_supplemental_Tables_S1-9.xls/download.xls.txt.6 col:12 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2012_07_31_mss178.DC1_Tardif_supplemental_Tables_S1-9.xls/download.xls.txt.7 col:12 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2012_07_31_mss178.DC1_Tardif_supplemental_Tables_S1-9.xls/download.xls.txt.8 col:12 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2012_08_02_mss190.DC1_Supplementary_Table_1.xlsx/download.xlsx.txt.0 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_08_02_mss190.DC1_Supplementary_Table_1.xlsx/download.xlsx.txt.1 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_09_19_mss228.DC1_Barreto_TableS2.xls/download.xls.txt.0 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_09_19_mss228.DC1_Barreto_TableS2.xls/download.xls.txt.1 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2012_09_19_mss228.DC1_Barreto_TableS2.xls/download.xls.txt.2 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2013_01_16_mst005.DC1_Supplemental_Tables.xlsx/download.xlsx.txt.0 col:8 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2013_01_16_mst005.DC1_Supplemental_Tables.xlsx/download.xlsx.txt.1 col:8 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2013_01_16_mst005.DC1_Supplemental_Tables.xlsx/download.xlsx.txt.2 col:8 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2013_01_16_mst005.DC1_Supplemental_Tables.xlsx/download.xlsx.txt.3 col:8 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2013_01_16_mst005.DC1_Supplemental_Tables.xlsx/download.xlsx.txt.4 col:8 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2013_01_16_mst005.DC1_Supplemental_Tables.xlsx/download.xlsx.txt.5 col:8 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2013_02_07_mst022.DC1_SupplementaryTables_1_and_2.xls/download.xls.txt.0 col:3 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2013_02_07_mst022.DC1_SupplementaryTables_1_and_2.xls/download.xls.txt.0 col:7 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2013_02_07_mst022.DC1_SupplementaryTables_1_and_2.xls/download.xls.txt.1 col:3 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2013_02_07_mst022.DC1_SupplementaryTables_1_and_2.xls/download.xls.txt.1 col:7 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2013_03_27_mst063.DC1_supplementary_table_S5.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2013_03_27_mst063.DC1_supplementary_table_S5.xls/download.xls.txt.1 col:3 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2013_03_27_mst063.DC1_supplementary_table_S5.xls/download.xls.txt.2 col:3 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2013_04_14_mst072.DC1_TABLE_S4_Information_for_Selected_Genes.xlsx/download.xlsx.txt.0 col:4 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2013_04_14_mst072.DC1_TABLE_S4_Information_for_Selected_Genes.xlsx/download.xlsx.txt.1 col:4 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2013_04_22_mst079.DC1_Supplementary_table_S2.xlsx/download.xlsx.txt.0 col:2 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2013_04_22_mst079.DC1_Supplementary_table_S2.xlsx/download.xlsx.txt.1 col:2 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2013_05_22_mst098.DC1_relax_tableS3_20130406.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2013_07_30_mst134.DC1_supp_table_2_revised.xlsx/download.xlsx.txt.0 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2013_07_30_mst134.DC1_supp_table_2_revised.xlsx/download.xlsx.txt.1 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2013_07_30_mst134.DC1_supp_table_2_revised.xlsx/download.xlsx.txt.2 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2013_07_30_mst134.DC1_supp_table_2_revised.xlsx/download.xlsx.txt.3 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2013_11_04_mst212.DC1_BogumilEtal-SuppTables.xls/download.xls.txt.0 col:2 species:Rnorvegicus
+http___mbe.oxfordjournals.org___content_suppl_2013_11_04_mst212.DC1_BogumilEtal-SuppTables.xls/download.xls.txt.1 col:2 species:Rnorvegicus
+http___mbe.oxfordjournals.org___content_suppl_2013_11_04_mst212.DC1_BogumilEtal-SuppTables.xls/download.xls.txt.2 col:2 species:Rnorvegicus
+http___mbe.oxfordjournals.org___content_suppl_2013_11_20_mst223.DC1_Supplementary_Tables.xlsx/download.xlsx.txt.0 col:3 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2013_11_20_mst223.DC1_Supplementary_Tables.xlsx/download.xlsx.txt.1 col:3 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2013_11_20_mst223.DC1_Supplementary_Tables.xlsx/download.xlsx.txt.10 col:3 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2013_11_20_mst223.DC1_Supplementary_Tables.xlsx/download.xlsx.txt.11 col:3 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2013_11_20_mst223.DC1_Supplementary_Tables.xlsx/download.xlsx.txt.2 col:3 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2013_11_20_mst223.DC1_Supplementary_Tables.xlsx/download.xlsx.txt.3 col:3 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2013_11_20_mst223.DC1_Supplementary_Tables.xlsx/download.xlsx.txt.4 col:3 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2013_11_20_mst223.DC1_Supplementary_Tables.xlsx/download.xlsx.txt.5 col:3 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2013_11_20_mst223.DC1_Supplementary_Tables.xlsx/download.xlsx.txt.6 col:3 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2013_11_20_mst223.DC1_Supplementary_Tables.xlsx/download.xlsx.txt.7 col:3 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2013_11_20_mst223.DC1_Supplementary_Tables.xlsx/download.xlsx.txt.8 col:3 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2013_11_20_mst223.DC1_Supplementary_Tables.xlsx/download.xlsx.txt.9 col:3 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2014_01_16_msu046.DC1_Supplementary_table4.xlsx/download.xlsx.txt.0 col:4 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2014_01_16_msu046.DC1_Supplementary_table3.xlsx/download.xlsx.txt.0 col:1 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.0 col:4 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.0 col:6 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.1 col:4 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.1 col:6 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.10 col:4 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.10 col:6 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.11 col:4 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.11 col:6 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.12 col:4 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.12 col:6 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.13 col:4 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.13 col:6 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.14 col:4 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.14 col:6 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.2 col:4 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.2 col:6 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.3 col:4 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.3 col:6 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.4 col:4 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.4 col:6 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.5 col:4 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.5 col:6 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.6 col:4 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.6 col:6 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.7 col:4 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.7 col:6 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.8 col:4 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.8 col:6 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.9 col:4 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_01_21_msu050.DC1_Supplementary_Tables_S1-S15.xlsx/download.xlsx.txt.9 col:6 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_02_08_msu071.DC1_Table_S2.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2014_02_08_msu071.DC1_Table_S2.xls/download.xls.txt.1 col:2 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2014_02_08_msu071.DC1_Table_S3.xls/download.xls.txt.0 col:3 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2014_02_08_msu071.DC1_Table_S4.xls/download.xls.txt.0 col:3 species:Mmusculus
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S4.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S4.xls	3	2013/09/07
+http___mbe.oxfordjournals.org___content_suppl_2014_02_08_msu071.DC1_Table_S1.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	2	4-Sep
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	2	1-Sep
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	2	2-Sep
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	2	1-Dec
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	2	5-Sep
+http___mbe.oxfordjournals.org___content_suppl_2014_02_08_msu071.DC1_Table_S1.xls/download.xls.txt.1 col:2 species:Dmelanogaster
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	2	4-Sep
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	2	1-Sep
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	2	2-Sep
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	2	1-Dec
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	2	5-Sep
+http___mbe.oxfordjournals.org___content_suppl_2014_02_08_msu071.DC1_Table_S1.xls/download.xls.txt.2 col:2 species:Dmelanogaster
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	2	4-Sep
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	2	1-Sep
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	2	2-Sep
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	2	1-Dec
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	http://mbe.oxfordjournals.org///content/suppl/2014/02/08/msu071.DC1/Table_S1.xls	2	5-Sep
+http___mbe.oxfordjournals.org___content_suppl_2014_03_18_msu104.DC1_Supplementary_File_3_Table_S9_S15_S16_S17.xls/download.xls.txt.0 col:11 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_03_18_msu104.DC1_Supplementary_File_3_Table_S9_S15_S16_S17.xls/download.xls.txt.1 col:11 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_03_18_msu104.DC1_Supplementary_File_3_Table_S9_S15_S16_S17.xls/download.xls.txt.2 col:11 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_03_18_msu104.DC1_Supplementary_File_3_Table_S9_S15_S16_S17.xls/download.xls.txt.3 col:11 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S10.xlsx/download.xlsx.txt.0 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S11.xlsx/download.xlsx.txt.0 col:2 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	2	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S10.xlsx/download.xlsx.txt.0 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S10.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S10.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S11.xlsx/download.xlsx.txt.0 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S10.xlsx/download.xlsx.txt.1 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S11.xlsx/download.xlsx.txt.1 col:2 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	2	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S10.xlsx/download.xlsx.txt.1 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S10.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S10.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S11.xlsx/download.xlsx.txt.1 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S10.xlsx/download.xlsx.txt.2 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S11.xlsx/download.xlsx.txt.2 col:2 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	2	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S10.xlsx/download.xlsx.txt.2 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S10.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S10.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S11.xlsx/download.xlsx.txt.2 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S10.xlsx/download.xlsx.txt.3 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S11.xlsx/download.xlsx.txt.3 col:2 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	2	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S10.xlsx/download.xlsx.txt.3 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S10.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S10.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S11.xlsx/download.xlsx.txt.3 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S10.xlsx/download.xlsx.txt.4 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S11.xlsx/download.xlsx.txt.4 col:2 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	2	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S10.xlsx/download.xlsx.txt.4 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S10.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S10.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S11.xlsx/download.xlsx.txt.4 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S10.xlsx/download.xlsx.txt.5 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S11.xlsx/download.xlsx.txt.5 col:2 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	2	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S10.xlsx/download.xlsx.txt.5 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S10.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S10.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S11.xlsx/download.xlsx.txt.5 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S11.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S12.xlsx/download.xlsx.txt.0 col:2 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S12.xlsx/download.xlsx.txt.0 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S12.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S12.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S12.xlsx/download.xlsx.txt.1 col:2 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S12.xlsx/download.xlsx.txt.1 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S12.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S12.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S12.xlsx/download.xlsx.txt.2 col:2 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S12.xlsx/download.xlsx.txt.2 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S12.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S12.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S12.xlsx/download.xlsx.txt.3 col:2 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S12.xlsx/download.xlsx.txt.3 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S12.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S12.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S12.xlsx/download.xlsx.txt.4 col:2 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S12.xlsx/download.xlsx.txt.4 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S12.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S12.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S12.xlsx/download.xlsx.txt.5 col:2 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2014_03_29_msu118.DC1_Table_S12.xlsx/download.xlsx.txt.5 col:10 species:Hsapiens
+2016-03-29	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S12.xlsx	http://mbe.oxfordjournals.org///content/suppl/2014/03/29/msu118.DC1/Table_S12.xlsx	10	2004/09/01
+http___mbe.oxfordjournals.org___content_suppl_2014_05_06_msu152.DC1_Schumaker_MBE-13-0981_Supplementary_table_S3.xlsx/download.xlsx.txt.0 col:2 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2014_05_06_msu153.DC1_Supplementary_Data2.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_06_msu153.DC1_Supplementary_Data2.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_07_msu155.DC1_Supplementary_tables_1-3.xlsx/download.xlsx.txt.0 col:1 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2014_05_07_msu155.DC1_Supplementary_tables_1-3.xlsx/download.xlsx.txt.1 col:1 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2014_05_07_msu155.DC1_Supplementary_tables_1-3.xlsx/download.xlsx.txt.2 col:1 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S11.xlsx/download.xlsx.txt.0 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S11.xlsx/download.xlsx.txt.1 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S14.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S14.xlsx/download.xlsx.txt.1 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S14.xlsx/download.xlsx.txt.2 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S14.xlsx/download.xlsx.txt.3 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S15.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S15.xlsx/download.xlsx.txt.1 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S16.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S16.xlsx/download.xlsx.txt.1 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S18.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S18.xlsx/download.xlsx.txt.1 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S1.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S3.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S3.xlsx/download.xlsx.txt.1 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S3.xlsx/download.xlsx.txt.2 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S3.xlsx/download.xlsx.txt.3 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_05_23_msu167.DC1_Supplementary_Table_S3.xlsx/download.xlsx.txt.4 col:1 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_06_11_msu189.DC1_Karlodinium_table_S3.xlsx/download.xlsx.txt.0 col:1 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2014_06_11_msu189.DC1_Karlodinium_table_S3.xlsx/download.xlsx.txt.0 col:2 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2014_06_11_msu189.DC1_Karlodinium_table_S3.xlsx/download.xlsx.txt.0 col:4 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2014_06_11_msu189.DC1_Karlodinium_table_S3.xlsx/download.xlsx.txt.0 col:5 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2014_06_11_msu189.DC1_Karlodinium_table_S3.xlsx/download.xlsx.txt.0 col:6 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2014_06_11_msu189.DC1_Karlodinium_table_S3.xlsx/download.xlsx.txt.1 col:1 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2014_06_11_msu189.DC1_Karlodinium_table_S3.xlsx/download.xlsx.txt.1 col:2 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2014_06_11_msu189.DC1_Karlodinium_table_S3.xlsx/download.xlsx.txt.1 col:4 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2014_06_11_msu189.DC1_Karlodinium_table_S3.xlsx/download.xlsx.txt.1 col:5 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2014_06_11_msu189.DC1_Karlodinium_table_S3.xlsx/download.xlsx.txt.1 col:6 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2014_06_11_msu189.DC1_Karlodinium_table_S3.xlsx/download.xlsx.txt.2 col:1 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2014_06_11_msu189.DC1_Karlodinium_table_S3.xlsx/download.xlsx.txt.2 col:2 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2014_06_11_msu189.DC1_Karlodinium_table_S3.xlsx/download.xlsx.txt.2 col:4 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2014_06_11_msu189.DC1_Karlodinium_table_S3.xlsx/download.xlsx.txt.2 col:5 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2014_06_11_msu189.DC1_Karlodinium_table_S3.xlsx/download.xlsx.txt.2 col:6 species:Drerio
+http___mbe.oxfordjournals.org___content_suppl_2014_06_19_msu195.DC1_Supplementary_daata_sets.xlsx/download.xlsx.txt.0 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2014_06_19_msu195.DC1_Supplementary_daata_sets.xlsx/download.xlsx.txt.1 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2014_06_19_msu195.DC1_Supplementary_daata_sets.xlsx/download.xlsx.txt.2 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2014_06_19_msu195.DC1_Supplementary_daata_sets.xlsx/download.xlsx.txt.3 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2014_06_19_msu195.DC1_Supplementary_daata_sets.xlsx/download.xlsx.txt.4 col:1 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2014_07_08_msu208.DC1_Supplementary_Table_S1.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_07_08_msu208.DC1_Supplementary_Table_S1.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_07_08_msu208.DC1_Supplementary_Table_S1.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_07_08_msu208.DC1_Supplementary_Table_S1.xls/download.xls.txt.3 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2014_07_24_msu221.DC1_1SupplementaryTables_S1-S4_12-5-14.xlsx/download.xlsx.txt.0 col:3 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_07_24_msu221.DC1_1SupplementaryTables_S1-S4_12-5-14.xlsx/download.xlsx.txt.1 col:3 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_07_24_msu221.DC1_1SupplementaryTables_S1-S4_12-5-14.xlsx/download.xlsx.txt.2 col:3 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_07_24_msu221.DC1_1SupplementaryTables_S1-S4_12-5-14.xlsx/download.xlsx.txt.3 col:3 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2014_11_17_msu320.DC1_TS2_all.xlsx/download.xlsx.txt.0 col:5 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2014_11_17_msu320.DC1_TS2_all.xlsx/download.xlsx.txt.1 col:5 species:Dmelanogaster
+http___mbe.oxfordjournals.org___content_suppl_2015_01_02_msu405.DC1_TableS2.xls/download.xls.txt.0 col:4 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2015_01_29_msv016.DC1_Videvall_Supplementary_Tables_S8-9.xlsx/download.xlsx.txt.0 col:1 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2015_01_29_msv016.DC1_Videvall_Supplementary_Tables_S8-9.xlsx/download.xlsx.txt.1 col:1 species:Ggallus
+http___mbe.oxfordjournals.org___content_suppl_2015_05_06_msv112.DC1_SupplementaryTable4_QTLs.xlsx/download.xlsx.txt.0 col:9 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2015_05_06_msv112.DC1_SupplementaryTable5_ChemicalGenomics.xlsx/download.xlsx.txt.0 col:1 species:Scerevisiae
+http___mbe.oxfordjournals.org___content_suppl_2015_07_28_msv156.DC1_ALL_Supplementary_Tables_MBE-15-0105.xls/download.xls.txt.0 col:2 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2015_07_28_msv156.DC1_ALL_Supplementary_Tables_MBE-15-0105.xls/download.xls.txt.1 col:2 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2015_07_28_msv156.DC1_ALL_Supplementary_Tables_MBE-15-0105.xls/download.xls.txt.2 col:2 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2015_07_28_msv156.DC1_ALL_Supplementary_Tables_MBE-15-0105.xls/download.xls.txt.3 col:2 species:Athaliana
+http___mbe.oxfordjournals.org___content_suppl_2015_08_29_msv175.DC1_supplementary_tables.xlsx/download.xlsx.txt.0 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2015_08_29_msv175.DC1_supplementary_tables.xlsx/download.xlsx.txt.1 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2015_08_29_msv175.DC1_supplementary_tables.xlsx/download.xlsx.txt.2 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2015_08_29_msv175.DC1_supplementary_tables.xlsx/download.xlsx.txt.3 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2015_08_29_msv175.DC1_supplementary_tables.xlsx/download.xlsx.txt.4 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2015_08_29_msv175.DC1_supplementary_tables.xlsx/download.xlsx.txt.5 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2015_08_29_msv175.DC1_supplementary_tables.xlsx/download.xlsx.txt.6 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2015_08_29_msv175.DC1_supplementary_tables.xlsx/download.xlsx.txt.7 col:2 species:Hsapiens
+http___mbe.oxfordjournals.org___content_suppl_2015_08_29_msv175.DC1_supplementary_tables.xlsx/download.xlsx.txt.8 col:2 species:Hsapiens

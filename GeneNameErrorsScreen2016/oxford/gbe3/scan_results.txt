@@ -1,0 +1,245 @@
+http___gbe.oxfordjournals.org___content_suppl_2011_11_01_evr113.DC1_EVR113_supplemental_table_2_Oct25.xls/download.xls.txt.0 col:6 species:Dmelanogaster
+http___gbe.oxfordjournals.org___content_suppl_2011_11_01_evr113.DC1_EVR113_supplemental_table_2_Oct25.xls/download.xls.txt.1 col:6 species:Dmelanogaster
+http___gbe.oxfordjournals.org___content_suppl_2011_12_07_evr134.DC1_EVR134_TableS4.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_02_06_evs013.DC1_EVS013_Supp_Info_1_Gene_counts_and_expression_results.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_02_06_evs013.DC1_EVS013_Supp_Info_1_Gene_counts_and_expression_results.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_04_evs039.DC1_GBE_supp_Tables.xlsx/download.xlsx.txt.0 col:2 species:Mmusculus
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/07
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/08
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/10
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/04
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/11
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/03
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/12
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/05
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/08
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/02
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/07
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/14
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/03
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/01
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/15
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/06
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/04
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/09
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/06
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/11
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/09
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/05
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/10
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/02
+http___gbe.oxfordjournals.org___content_suppl_2012_04_04_evs039.DC1_GBE_supp_Tables.xlsx/download.xlsx.txt.1 col:2 species:Mmusculus
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/07
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/08
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/10
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/04
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/11
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/03
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/12
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/05
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/08
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/02
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/07
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/14
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/03
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/01
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/15
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/06
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/04
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/09
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/06
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/11
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/09
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/05
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/10
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/02
+http___gbe.oxfordjournals.org___content_suppl_2012_04_04_evs039.DC1_GBE_supp_Tables.xlsx/download.xlsx.txt.2 col:2 species:Mmusculus
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/07
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/08
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/10
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/04
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/11
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/03
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/12
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/05
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/08
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/02
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/07
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/14
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/03
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/01
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/15
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/06
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/04
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/09
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/06
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/11
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/09
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/05
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/10
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/02
+http___gbe.oxfordjournals.org___content_suppl_2012_04_04_evs039.DC1_GBE_supp_Tables.xlsx/download.xlsx.txt.3 col:2 species:Mmusculus
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/07
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/08
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/10
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/04
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/11
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/03
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/12
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/05
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/08
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/02
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/07
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/14
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/03
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/01
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/15
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/06
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/04
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/09
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/06
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/11
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/09
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/05
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/10
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/02
+http___gbe.oxfordjournals.org___content_suppl_2012_04_04_evs039.DC1_GBE_supp_Tables.xlsx/download.xlsx.txt.4 col:2 species:Mmusculus
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/07
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/08
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/10
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/04
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/11
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/03
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/12
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/05
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/08
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/02
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/07
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/14
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/03
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/01
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/15
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/06
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/04
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/09
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/06
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/11
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/09
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/09/05
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/10
+2016-04-14	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	http://gbe.oxfordjournals.org///content/suppl/2012/04/04/evs039.DC1/GBE_supp_Tables.xlsx	2	2011/03/02
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.0 col:4 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.1 col:3 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.1 col:4 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.2 col:3 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.2 col:4 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.3 col:3 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.3 col:4 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.4 col:3 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.4 col:4 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.5 col:3 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.5 col:4 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.6 col:3 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.6 col:4 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.7 col:3 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS2.xls/download.xls.txt.7 col:4 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS5.xls/download.xls.txt.0 col:2 species:Mmusculus
+http___gbe.oxfordjournals.org___content_suppl_2012_04_24_evs045.DC1_EVS045_DatasetS5.xls/download.xls.txt.1 col:2 species:Mmusculus
+http___gbe.oxfordjournals.org___content_suppl_2012_08_06_evs065.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:3 species:Drerio
+http___gbe.oxfordjournals.org___content_suppl_2012_08_06_evs065.DC1_Table_S1.xlsx/download.xlsx.txt.1 col:3 species:Drerio
+http___gbe.oxfordjournals.org___content_suppl_2012_08_06_evs065.DC1_Table_S1.xlsx/download.xlsx.txt.2 col:3 species:Drerio
+http___gbe.oxfordjournals.org___content_suppl_2012_12_21_evs128.DC1_Matsunami_revision_Suppl_Table2.xls/download.xls.txt.0 col:9 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_01_18_evt007.DC1_Supplementary_Tables.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_01_18_evt007.DC1_Supplementary_Tables.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_01_18_evt007.DC1_Supplementary_Tables.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_01_18_evt007.DC1_Supplementary_Tables.xls/download.xls.txt.3 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_01_18_evt007.DC1_Supplementary_Tables.xls/download.xls.txt.4 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_01_18_evt007.DC1_Supplementary_Tables.xls/download.xls.txt.5 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_01_18_evt007.DC1_Supplementary_Tables.xls/download.xls.txt.6 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_01_18_evt007.DC1_Supplementary_Tables.xls/download.xls.txt.7 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_01_18_evt007.DC1_Supplementary_Tables.xls/download.xls.txt.8 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_04_15_evt037.DC1_Sup_table_S4.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.0 col:8 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.0 col:22 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.0 col:36 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.0 col:50 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.0 col:64 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.0 col:78 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.1 col:8 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.1 col:22 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.1 col:36 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.1 col:50 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.1 col:64 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.1 col:78 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.2 col:8 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.2 col:22 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.2 col:36 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.2 col:50 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.2 col:64 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.2 col:78 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.3 col:8 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.3 col:22 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.3 col:36 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.3 col:50 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.3 col:64 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.3 col:78 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.4 col:8 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.4 col:22 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.4 col:36 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.4 col:50 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.4 col:64 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.4 col:78 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.5 col:8 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.5 col:22 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.5 col:36 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.5 col:50 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.5 col:64 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_04_25_evt058.DC1_Levin_et_al_2012_Table_S5.xlsx/download.xlsx.txt.5 col:78 species:Ggallus
+http___gbe.oxfordjournals.org___content_suppl_2013_06_07_evt092.DC1_Table_S1-The_1362_druggable_protein_target_orthologues-20130528.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_08_14_evt123.DC1_TableS2.xlsx/download.xlsx.txt.0 col:11 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_08_14_evt123.DC1_TableS1.xlsx/download.xlsx.txt.0 col:1 species:Drerio
+http___gbe.oxfordjournals.org___content_suppl_2013_08_14_evt123.DC1_TableS3.xlsx/download.xlsx.txt.0 col:11 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_08_29_evt129.DC1_Supplementary_1.xlsx/download.xlsx.txt.0 col:2 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_08_29_evt129.DC1_Supplementary_1.xlsx/download.xlsx.txt.1 col:2 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_08_29_evt129.DC1_Supplementary_1.xlsx/download.xlsx.txt.2 col:2 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_08_29_evt129.DC1_Supplementary_2.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_08_29_evt129.DC1_Supplementary_2.xlsx/download.xlsx.txt.1 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_08_29_evt129.DC1_Supplementary_2.xlsx/download.xlsx.txt.2 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_09_05_evt133.DC1_L1AC18_clones.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_09_23_evt142.DC1_WENGER_Punctuated_Emergence_Table-S1.xlsx/download.xlsx.txt.0 col:2 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2013_10_25_evt162.DC1_Supplementary_Table_1.xlsx/download.xlsx.txt.0 col:3 species:Athaliana
+http___gbe.oxfordjournals.org___content_suppl_2013_11_22_evt192.DC1_Komineketal_S1.xls/download.xls.txt.0 col:7 species:Scerevisiae
+http___gbe.oxfordjournals.org___content_suppl_2013_11_22_evt192.DC1_Komineketal_S1.xls/download.xls.txt.1 col:7 species:Scerevisiae
+http___gbe.oxfordjournals.org___content_suppl_2014_02_19_evu035.DC1_Table_S6_Significant_sex-biased_contigs_with_Drosophila_orthologs_and_functions.xlsx/download.xlsx.txt.0 col:2 species:Dmelanogaster
+http___gbe.oxfordjournals.org___content_suppl_2014_02_19_evu035.DC1_Table_S7_Manduca_to_Drosophila_BLAST_results_for_all_contigs.xlsx/download.xlsx.txt.0 col:3 species:Dmelanogaster
+http___gbe.oxfordjournals.org___content_suppl_2014_02_19_evu035.DC1_Table_S7_Manduca_to_Drosophila_BLAST_results_for_all_contigs.xlsx/download.xlsx.txt.1 col:3 species:Dmelanogaster
+http___gbe.oxfordjournals.org___content_suppl_2014_02_19_evu035.DC1_Table_S7_Manduca_to_Drosophila_BLAST_results_for_all_contigs.xlsx/download.xlsx.txt.2 col:3 species:Dmelanogaster
+http___gbe.oxfordjournals.org___content_suppl_2014_05_13_evu102.DC1_supp.tableS5.xpehh_summary_table.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_05_13_evu102.DC1_supp.tableS6.xpclr_summary_table.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_06_11_evu125.DC1_S2_read_analysis_candidate_CGIs_methylome2.xlsx/download.xlsx.txt.0 col:2 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_06_11_evu125.DC1_S3_BLAT_results_104_CGIs.xlsx/download.xlsx.txt.0 col:6 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_07_24_evu156.DC1_dataset_S2_genes.xls/download.xls.txt.0 col:1 species:Dmelanogaster
+http___gbe.oxfordjournals.org___content_suppl_2014_07_24_evu156.DC1_dataset_S2_genes.xls/download.xls.txt.1 col:1 species:Dmelanogaster
+http___gbe.oxfordjournals.org___content_suppl_2014_07_24_evu156.DC1_dataset_S2_genes.xls/download.xls.txt.2 col:1 species:Dmelanogaster
+http___gbe.oxfordjournals.org___content_suppl_2014_07_24_evu156.DC1_dataset_S2_genes.xls/download.xls.txt.3 col:1 species:Dmelanogaster
+http___gbe.oxfordjournals.org___content_suppl_2014_08_21_evu181.DC1_Supplementary_Table_S1-S2.xlsx/download.xlsx.txt.0 col:2 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_08_21_evu181.DC1_Supplementary_Table_S1-S2.xlsx/download.xlsx.txt.0 col:3 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_08_21_evu181.DC1_Supplementary_Table_S1-S2.xlsx/download.xlsx.txt.1 col:2 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_08_21_evu181.DC1_Supplementary_Table_S1-S2.xlsx/download.xlsx.txt.1 col:3 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_09_22_evu211.DC1_Supplementary_datasheet.xlsx/download.xlsx.txt.0 col:1 species:Dmelanogaster
+http___gbe.oxfordjournals.org___content_suppl_2014_09_22_evu211.DC1_Supplementary_datasheet.xlsx/download.xlsx.txt.1 col:1 species:Dmelanogaster
+http___gbe.oxfordjournals.org___content_suppl_2014_09_22_evu211.DC1_Supplementary_datasheet.xlsx/download.xlsx.txt.2 col:1 species:Dmelanogaster
+http___gbe.oxfordjournals.org___content_suppl_2014_10_01_evu220.DC1_Supplementary_Table_S1.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_10_01_evu220.DC1_Supplementary_Table_S1.xls/download.xls.txt.0 col:9 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_10_01_evu220.DC1_Supplementary_Table_S1.xls/download.xls.txt.0 col:16 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_10_01_evu220.DC1_Supplementary_Table_S1.xls/download.xls.txt.1 col:3 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_10_01_evu220.DC1_Supplementary_Table_S1.xls/download.xls.txt.1 col:9 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_10_01_evu220.DC1_Supplementary_Table_S1.xls/download.xls.txt.1 col:16 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_10_01_evu220.DC1_Supplementary_Table_S1.xls/download.xls.txt.2 col:3 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_10_01_evu220.DC1_Supplementary_Table_S1.xls/download.xls.txt.2 col:9 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_10_01_evu220.DC1_Supplementary_Table_S1.xls/download.xls.txt.2 col:16 species:Hsapiens
+http___gbe.oxfordjournals.org___content_suppl_2014_10_09_evu226.DC1_TableS2.xlsx/download.xlsx.txt.0 col:2 species:Scerevisiae
+2016-04-15	http://gbe.oxfordjournals.org///content/suppl/2014/10/09/evu226.DC1/TableS2.xlsx	http://gbe.oxfordjournals.org///content/suppl/2014/10/09/evu226.DC1/TableS2.xlsx	2	2014/10/01
+http___gbe.oxfordjournals.org___content_suppl_2014_10_09_evu226.DC1_TableS2.xlsx/download.xlsx.txt.0 col:4 species:Scerevisiae
+http___gbe.oxfordjournals.org___content_suppl_2014_10_09_evu226.DC1_TableS2.xlsx/download.xlsx.txt.0 col:6 species:Scerevisiae

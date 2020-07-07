@@ -1,0 +1,420 @@
+http___www.nature.com_ng_journal_v37_n10_extref_ng1635-S1.xls/download.xls.txt.0 col:7 species:Mmusculus
+http___www.nature.com_ng_journal_v37_n1_extref_ng1488-S10.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___www.nature.com_ng_journal_v37_n1_extref_ng1490-S10.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v37_n1_extref_ng1490-S12.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___www.nature.com_ng_journal_v37_n1_extref_ng1490-S8.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v37_n3_extref_ng1497-S2.xls/download.xls.txt.0 col:1 species:Mmusculus
+http___www.nature.com_ng_journal_v37_n3_extref_ng1497-S2.xls/download.xls.txt.1 col:1 species:Mmusculus
+http___www.nature.com_ng_journal_v37_n3_extref_ng1497-S2.xls/download.xls.txt.2 col:1 species:Mmusculus
+http___www.nature.com_ng_journal_v37_n3_extref_ng1497-S3.xls/download.xls.txt.0 col:1 species:Mmusculus
+2016-03-29	http://www.nature.com/ng/journal/v37/n3/extref/ng1497-S3.xls	http://www.nature.com/ng/journal/v37/n3/extref/ng1497-S3.xls	1	2015/09/01
+2016-03-29	http://www.nature.com/ng/journal/v37/n3/extref/ng1497-S3.xls	http://www.nature.com/ng/journal/v37/n3/extref/ng1497-S3.xls	1	2002/09/01
+http___www.nature.com_ng_journal_v37_n3_extref_ng1497-S4.xls/download.xls.txt.0 col:1 species:Mmusculus
+http___www.nature.com_ng_journal_v37_n3_extref_ng1497-S3.xls/download.xls.txt.1 col:1 species:Mmusculus
+2016-03-29	http://www.nature.com/ng/journal/v37/n3/extref/ng1497-S3.xls	http://www.nature.com/ng/journal/v37/n3/extref/ng1497-S3.xls	1	2015/09/01
+2016-03-29	http://www.nature.com/ng/journal/v37/n3/extref/ng1497-S3.xls	http://www.nature.com/ng/journal/v37/n3/extref/ng1497-S3.xls	1	2002/09/01
+http___www.nature.com_ng_journal_v37_n3_extref_ng1497-S4.xls/download.xls.txt.1 col:1 species:Mmusculus
+http___www.nature.com_ng_journal_v37_n3_extref_ng1497-S3.xls/download.xls.txt.2 col:1 species:Mmusculus
+2016-03-29	http://www.nature.com/ng/journal/v37/n3/extref/ng1497-S3.xls	http://www.nature.com/ng/journal/v37/n3/extref/ng1497-S3.xls	1	2015/09/01
+2016-03-29	http://www.nature.com/ng/journal/v37/n3/extref/ng1497-S3.xls	http://www.nature.com/ng/journal/v37/n3/extref/ng1497-S3.xls	1	2002/09/01
+http___www.nature.com_ng_journal_v37_n3_extref_ng1497-S4.xls/download.xls.txt.2 col:1 species:Mmusculus
+http___www.nature.com_ng_journal_v37_n3_extref_ng1497-S5.xls/download.xls.txt.0 col:1 species:Mmusculus
+http___www.nature.com_ng_journal_v37_n3_extref_ng1497-S5.xls/download.xls.txt.1 col:1 species:Mmusculus
+http___www.nature.com_ng_journal_v37_n3_extref_ng1497-S5.xls/download.xls.txt.2 col:1 species:Mmusculus
+http___www.nature.com_ng_journal_v37_n3_extref_ng1522-S10.xls/download.xls.txt.0 col:2 species:Mmusculus
+http___www.nature.com_ng_journal_v37_n3_extref_ng1522-S11.xls/download.xls.txt.0 col:6 species:Rnorvegicus
+http___www.nature.com_ng_journal_v37_n3_extref_ng1522-S11.xls/download.xls.txt.0 col:11 species:Ggallus
+http___www.nature.com_ng_journal_v37_n6_extref_ng1571-S2.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v37_n7_extref_ng1581-S1.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v38_n12_extref_ng1917-S7.xls/download.xls.txt.0 col:4 species:Scerevisiae
+http___www.nature.com_ng_journal_v38_n12_extref_ng1917-S7.xls/download.xls.txt.1 col:4 species:Scerevisiae
+http___www.nature.com_ng_journal_v38_n12_extref_ng1917-S7.xls/download.xls.txt.2 col:4 species:Scerevisiae
+http___www.nature.com_ng_journal_v38_n1_extref_ng1697-S4.xls/download.xls.txt.0 col:9 species:Hsapiens
+http___www.nature.com_ng_journal_v38_n4_extref_ng1760-S14.xls/download.xls.txt.0 col:4 species:Rnorvegicus
+http___www.nature.com_ng_journal_v38_n4_extref_ng1760-S14.xls/download.xls.txt.1 col:4 species:Rnorvegicus
+http___www.nature.com_ng_journal_v38_n4_extref_ng1760-S16.xls/download.xls.txt.0 col:24 species:Mmusculus
+2016-03-29	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S16.xls	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S16.xls	24	2005/09/04
+2016-03-29	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S16.xls	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S16.xls	24	2005/09/09
+2016-03-29	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S16.xls	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S16.xls	24	2005/09/02
+2016-03-29	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S16.xls	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S16.xls	24	2005/09/06
+2016-03-29	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S16.xls	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S16.xls	24	2005/09/08
+2016-03-29	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S16.xls	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S16.xls	24	2005/09/01
+http___www.nature.com_ng_journal_v38_n4_extref_ng1760-S19.xls/download.xls.txt.0 col:1 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S19.xls	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S19.xls	1	2005/09/01
+http___www.nature.com_ng_journal_v38_n4_extref_ng1760-S19.xls/download.xls.txt.1 col:1 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S19.xls	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S19.xls	1	2005/09/01
+http___www.nature.com_ng_journal_v38_n4_extref_ng1760-S19.xls/download.xls.txt.2 col:1 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S19.xls	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S19.xls	1	2005/09/01
+http___www.nature.com_ng_journal_v38_n4_extref_ng1760-S19.xls/download.xls.txt.3 col:1 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S19.xls	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S19.xls	1	2005/09/01
+http___www.nature.com_ng_journal_v38_n4_extref_ng1760-S19.xls/download.xls.txt.4 col:1 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S19.xls	http://www.nature.com/ng/journal/v38/n4/extref/ng1760-S19.xls	1	2005/09/01
+http___www.nature.com_ng_journal_v38_n6_extref_ng1792-S9.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___www.nature.com_ng_journal_v38_n8_extref_ng1844-S1.xls/download.xls.txt.0 col:4 species:Celegans
+2016-03-29	http://www.nature.com/ng/journal/v38/n8/extref/ng1844-S1.xls	http://www.nature.com/ng/journal/v38/n8/extref/ng1844-S1.xls	4	2001/04/01
+http___www.nature.com_ng_journal_v39_n10_extref_ng2109-S3.xls/download.xls.txt.0 col:1 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v39/n10/extref/ng2109-S3.xls	http://www.nature.com/ng/journal/v39/n10/extref/ng2109-S3.xls	1	2002/03/01
+2016-03-29	http://www.nature.com/ng/journal/v39/n10/extref/ng2109-S3.xls	http://www.nature.com/ng/journal/v39/n10/extref/ng2109-S3.xls	1	2002/03/01
+2016-03-29	http://www.nature.com/ng/journal/v39/n10/extref/ng2109-S3.xls	http://www.nature.com/ng/journal/v39/n10/extref/ng2109-S3.xls	1	2002/03/01
+http___www.nature.com_ng_journal_v39_n10_extref_ng2109-S3.xls/download.xls.txt.0 col:7 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n10_extref_ng2109-S4.xls/download.xls.txt.0 col:6 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n10_extref_ng2109-S4.xls/download.xls.txt.1 col:6 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n10_extref_ng2109-S4.xls/download.xls.txt.2 col:6 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.2-S2.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.2-S4.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.2-S3.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.2-S3.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.2-S3.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.2-S3.xls/download.xls.txt.3 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.2-S3.xls/download.xls.txt.4 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.2-S3.xls/download.xls.txt.5 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.2-S3.xls/download.xls.txt.6 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.2-S3.xls/download.xls.txt.7 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.2-S5.xls/download.xls.txt.0 col:2 species:Ggallus
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.2-S5.xls/download.xls.txt.1 col:2 species:Ggallus
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.2-S6.xls/download.xls.txt.0 col:1 species:Ggallus
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.2-S6.xls/download.xls.txt.0 col:3 species:Ggallus
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.9-S6.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.9-S6.xls/download.xls.txt.1 col:3 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n11_extref_ng.2007.9-S6.xls/download.xls.txt.2 col:3 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n12_extref_ng.2007.16-S5.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n12_extref_ng.2007.21-S4.xls/download.xls.txt.0 col:1 species:Dmelanogaster
+http___www.nature.com_ng_journal_v39_n12_extref_ng.2007.21-S4.xls/download.xls.txt.1 col:1 species:Dmelanogaster
+http___www.nature.com_ng_journal_v39_n12_extref_ng.2007.21-S4.xls/download.xls.txt.2 col:1 species:Dmelanogaster
+http___www.nature.com_ng_journal_v39_n12_extref_ng.2007.60-S2.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___www.nature.com_ng_journal_v39_n12_extref_ng.2007.60-S2.xls/download.xls.txt.1 col:2 species:Dmelanogaster
+http___www.nature.com_ng_journal_v39_n12_extref_ng.2007.60-S2.xls/download.xls.txt.2 col:2 species:Dmelanogaster
+http___www.nature.com_ng_journal_v39_n12_extref_ng.2007.60-S3.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___www.nature.com_ng_journal_v39_n12_extref_ng.2007.60-S3.xls/download.xls.txt.1 col:2 species:Dmelanogaster
+http___www.nature.com_ng_journal_v39_n12_extref_ng.2007.60-S3.xls/download.xls.txt.2 col:2 species:Dmelanogaster
+http___www.nature.com_ng_journal_v39_n12_extref_ng.2007.60-S4.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___www.nature.com_ng_journal_v39_n12_extref_ng.2007.60-S5.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___www.nature.com_ng_journal_v39_n2_extref_ng1948-S7.xls/download.xls.txt.0 col:2 species:Scerevisiae
+2016-03-29	http://www.nature.com/ng/journal/v39/n2/extref/ng1948-S7.xls	http://www.nature.com/ng/journal/v39/n2/extref/ng1948-S7.xls	2	2006/10/01
+http___www.nature.com_ng_journal_v39_n3_extref_ng1965-S5.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___www.nature.com_ng_journal_v39_n3_extref_ng1966-S8.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___www.nature.com_ng_journal_v39_n3_extref_ng1966-S8.xls/download.xls.txt.1 col:3 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n3_extref_ng.77-S2.xls/download.xls.txt.0 col:4 species:Dmelanogaster
+http___www.nature.com_ng_journal_v40_n3_extref_ng.77-S2.xls/download.xls.txt.1 col:4 species:Dmelanogaster
+http___www.nature.com_ng_journal_v40_n3_extref_ng.78-S2.xls/download.xls.txt.0 col:3 species:Ggallus
+http___www.nature.com_ng_journal_v40_n3_extref_ng.78-S2.xls/download.xls.txt.1 col:3 species:Ggallus
+http___www.nature.com_ng_journal_v40_n3_extref_ng.78-S2.xls/download.xls.txt.2 col:3 species:Ggallus
+http___www.nature.com_ng_journal_v40_n4_extref_ng.102-S3.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S2.xls/download.xls.txt.0 col:1 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S2.xls/download.xls.txt.0 col:2 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S3.xls/download.xls.txt.0 col:1 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S3.xls/download.xls.txt.0 col:4 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S3.xls/download.xls.txt.0 col:6 species:Celegans
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S2.xls/download.xls.txt.1 col:1 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S2.xls/download.xls.txt.1 col:2 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S3.xls/download.xls.txt.1 col:1 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S3.xls/download.xls.txt.1 col:4 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S2.xls/download.xls.txt.2 col:1 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S2.xls/download.xls.txt.2 col:2 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S3.xls/download.xls.txt.1 col:6 species:Celegans
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S3.xls/download.xls.txt.2 col:1 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S3.xls/download.xls.txt.2 col:4 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S3.xls/download.xls.txt.2 col:6 species:Celegans
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S4.xls/download.xls.txt.0 col:1 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S4.xls/download.xls.txt.0 col:5 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S4.xls/download.xls.txt.1 col:1 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n5_extref_ng.120-S2.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S4.xls/download.xls.txt.1 col:5 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S4.xls/download.xls.txt.2 col:1 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n4_extref_ng.114-S4.xls/download.xls.txt.2 col:5 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n5_extref_ng.123-S2.xls/download.xls.txt.0 col:2 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n5_extref_ng.123-S2.xls/download.xls.txt.1 col:2 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n5_extref_ng.123-S2.xls/download.xls.txt.2 col:2 species:Scerevisiae
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.0 col:6 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.0 col:9 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.0 col:12 species:Ggallus
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.0 col:15 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.0 col:18 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.0 col:21 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.0 col:24 species:Ggallus
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.0 col:27 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.0 col:30 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.0 col:33 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.0 col:36 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.0 col:39 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.1 col:3 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.1 col:6 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.1 col:9 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.1 col:12 species:Ggallus
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.1 col:15 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.1 col:18 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.1 col:21 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.1 col:24 species:Ggallus
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.1 col:27 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.1 col:30 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.1 col:33 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.1 col:36 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.1 col:39 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.2 col:3 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.2 col:6 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.2 col:9 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.2 col:12 species:Ggallus
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.2 col:15 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S4.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.2 col:18 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S4.xls/download.xls.txt.0 col:6 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.2 col:21 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S4.xls/download.xls.txt.0 col:10 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.2 col:24 species:Ggallus
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.2 col:27 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S4.xls/download.xls.txt.0 col:14 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.2 col:30 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.2 col:33 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.2 col:36 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.2 col:39 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S5.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S5.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S5.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S5.xls/download.xls.txt.3 col:2 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S5.xls/download.xls.txt.4 col:2 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.3 col:3 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.3 col:6 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S5.xls/download.xls.txt.5 col:2 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.3 col:9 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.3 col:12 species:Ggallus
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.3 col:15 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.3 col:18 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.3 col:21 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.3 col:24 species:Ggallus
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.3 col:27 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.3 col:30 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S6.xls/download.xls.txt.0 col:4 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.3 col:33 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.3 col:36 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.3 col:39 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S6.xls/download.xls.txt.1 col:4 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S6.xls/download.xls.txt.2 col:4 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S6.xls/download.xls.txt.3 col:4 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.4 col:3 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.4 col:6 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.4 col:9 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S6.xls/download.xls.txt.4 col:4 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.4 col:12 species:Ggallus
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.4 col:15 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.4 col:18 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S6.xls/download.xls.txt.5 col:4 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.4 col:21 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.4 col:24 species:Ggallus
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.4 col:27 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.4 col:30 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.4 col:33 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.4 col:36 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.4 col:39 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.5 col:3 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.5 col:6 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.5 col:9 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.5 col:12 species:Ggallus
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.5 col:15 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.5 col:18 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.5 col:21 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.5 col:24 species:Ggallus
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.5 col:27 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.5 col:30 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.5 col:33 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.5 col:36 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n5_extref_ng.127-S2.xls/download.xls.txt.5 col:39 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n7_extref_ng.171-S2.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n7_extref_ng.171-S3.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n7_extref_ng.171-S3.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n7_extref_ng.171-S5.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v40_n7_extref_ng.171-S7.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___www.nature.com_ng_journal_v41_n10_extref_ng.437-S2.xls/download.xls.txt.0 col:1 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/01
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/12
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/02
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/07
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/03
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/05
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/08
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/10
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/01
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/03
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/04
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/05
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/04
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/11
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/10
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/11
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/02
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/14
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/07
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/15
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/12/01
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/08
+http___www.nature.com_ng_journal_v41_n10_extref_ng.437-S2.xls/download.xls.txt.1 col:1 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/01
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/12
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/02
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/07
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/03
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/05
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/08
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/10
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/01
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/03
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/04
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/05
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/04
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/11
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/10
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/11
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/02
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/14
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/07
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/15
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/12/01
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/08
+http___www.nature.com_ng_journal_v41_n10_extref_ng.437-S2.xls/download.xls.txt.2 col:1 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/01
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/12
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/02
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/07
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/03
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/05
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/08
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/10
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/01
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/03
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/04
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/05
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/04
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/11
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/10
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/11
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/02
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/14
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/03/07
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/15
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/12/01
+2016-03-29	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	http://www.nature.com/ng/journal/v41/n10/extref/ng.437-S2.xls	1	2009/09/08
+http___www.nature.com_ng_journal_v41_n10_extref_ng.440-S3.xls/download.xls.txt.0 col:5 species:Ggallus
+http___www.nature.com_ng_journal_v41_n10_extref_ng.440-S3.xls/download.xls.txt.1 col:5 species:Ggallus
+http___www.nature.com_ng_journal_v41_n10_extref_ng.440-S3.xls/download.xls.txt.2 col:5 species:Ggallus
+http___www.nature.com_ng_journal_v41_n11_extref_ng.470-S2.xls/download.xls.txt.0 col:2 species:Athaliana
+http___www.nature.com_ng_journal_v41_n11_extref_ng.470-S2.xls/download.xls.txt.0 col:13 species:Athaliana
+http___www.nature.com_ng_journal_v41_n12_extref_ng.471-S2.xls/download.xls.txt.0 col:7 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	7	2009/09/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	7	2009/03/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	7	2009/03/03
+2016-03-29	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	7	2009/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	7	2009/09/06
+http___www.nature.com_ng_journal_v41_n12_extref_ng.471-S2.xls/download.xls.txt.1 col:7 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	7	2009/09/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	7	2009/03/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	7	2009/03/03
+2016-03-29	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	7	2009/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	7	2009/09/06
+http___www.nature.com_ng_journal_v41_n12_extref_ng.471-S2.xls/download.xls.txt.2 col:7 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	7	2009/09/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	7	2009/03/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	7	2009/03/03
+2016-03-29	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	7	2009/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	http://www.nature.com/ng/journal/v41/n12/extref/ng.471-S2.xls	7	2009/09/06
+http___www.nature.com_ng_journal_v41_n12_extref_ng.471-S5.xls/download.xls.txt.0 col:7 species:Hsapiens
+http___www.nature.com_ng_journal_v41_n12_extref_ng.471-S6.xls/download.xls.txt.0 col:7 species:Hsapiens
+http___www.nature.com_ng_journal_v41_n2_extref_ng.298-S3.xls/download.xls.txt.0 col:10 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S3.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S3.xls	10	2008/09/09
+http___www.nature.com_ng_journal_v41_n2_extref_ng.298-S4.xls/download.xls.txt.0 col:1 species:Ggallus
+http___www.nature.com_ng_journal_v41_n2_extref_ng.298-S4.xls/download.xls.txt.1 col:1 species:Ggallus
+http___www.nature.com_ng_journal_v41_n2_extref_ng.298-S4.xls/download.xls.txt.2 col:1 species:Ggallus
+http___www.nature.com_ng_journal_v41_n2_extref_ng.298-S2.xls/download.xls.txt.0 col:9 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/08
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/08
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/08
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/10
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/11
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/15
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/08
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/11
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/03
+http___www.nature.com_ng_journal_v41_n2_extref_ng.298-S2.xls/download.xls.txt.1 col:9 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/08
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/08
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/08
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/10
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/11
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/15
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/08
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/11
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/03
+http___www.nature.com_ng_journal_v41_n2_extref_ng.298-S5.xls/download.xls.txt.0 col:6 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S5.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S5.xls	6	2008/09/09
+http___www.nature.com_ng_journal_v41_n2_extref_ng.298-S2.xls/download.xls.txt.2 col:9 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/08
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/08
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/08
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/10
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/11
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/15
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/08
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/06
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/09/11
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/09
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S2.xls	9	2008/03/03
+http___www.nature.com_ng_journal_v41_n2_extref_ng.298-S5.xls/download.xls.txt.1 col:6 species:Hsapiens
+2016-03-29	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S5.xls	http://www.nature.com/ng/journal/v41/n2/extref/ng.298-S5.xls	6	2008/09/09
+http___www.nature.com_ng_journal_v41_n3_extref_ng.330-S2.xls/download.xls.txt.0 col:4 species:Dmelanogaster
+http___www.nature.com_ng_journal_v41_n3_extref_ng.330-S2.xls/download.xls.txt.0 col:5 species:Dmelanogaster
+http___www.nature.com_ng_journal_v41_n3_extref_ng.330-S2.xls/download.xls.txt.1 col:4 species:Dmelanogaster
+http___www.nature.com_ng_journal_v41_n3_extref_ng.330-S2.xls/download.xls.txt.1 col:5 species:Dmelanogaster
+http___www.nature.com_ng_journal_v41_n3_extref_ng.330-S2.xls/download.xls.txt.2 col:4 species:Dmelanogaster
+http___www.nature.com_ng_journal_v41_n3_extref_ng.330-S2.xls/download.xls.txt.2 col:5 species:Dmelanogaster
+http___www.nature.com_ng_journal_v41_n3_extref_ng.332-S3.xls/download.xls.txt.0 col:1 species:Dmelanogaster
+http___www.nature.com_ng_journal_v41_n3_extref_ng.332-S5.xls/download.xls.txt.0 col:5 species:Dmelanogaster
+http___www.nature.com_ng_journal_v41_n3_extref_ng.332-S6.xls/download.xls.txt.0 col:3 species:Dmelanogaster
+http___www.nature.com_ng_journal_v41_n3_extref_ng.332-S1.xls/download.xls.txt.0 col:3 species:Dmelanogaster
+2016-03-29	http://www.nature.com/ng/journal/v41/n3/extref/ng.332-S1.xls	http://www.nature.com/ng/journal/v41/n3/extref/ng.332-S1.xls	3	5-Sep
+http___www.nature.com_ng_journal_v41_n3_extref_ng.332-S1.xls/download.xls.txt.1 col:3 species:Dmelanogaster
+2016-03-29	http://www.nature.com/ng/journal/v41/n3/extref/ng.332-S1.xls	http://www.nature.com/ng/journal/v41/n3/extref/ng.332-S1.xls	3	5-Sep
+http___www.nature.com_ng_journal_v41_n3_extref_ng.332-S7.xls/download.xls.txt.0 col:3 species:Dmelanogaster
+http___www.nature.com_ng_journal_v41_n3_extref_ng.332-S1.xls/download.xls.txt.2 col:3 species:Dmelanogaster
+2016-03-29	http://www.nature.com/ng/journal/v41/n3/extref/ng.332-S1.xls	http://www.nature.com/ng/journal/v41/n3/extref/ng.332-S1.xls	3	5-Sep
+http___www.nature.com_ng_journal_v41_n3_extref_ng.332-S7.xls/download.xls.txt.1 col:3 species:Dmelanogaster
+http___www.nature.com_ng_journal_v41_n3_extref_ng.332-S7.xls/download.xls.txt.2 col:3 species:Dmelanogaster
+http___www.nature.com_ng_journal_v41_n8_extref_ng.408-S2.xls/download.xls.txt.0 col:5 species:Ggallus

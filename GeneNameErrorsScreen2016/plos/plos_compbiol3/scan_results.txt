@@ -1,0 +1,223 @@
+http___dx.plos.org_10.1371_journal.pcbi.0010039.st003/journal.pcbi.0010039.st003.xls.txt.0 col:1 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0010039.st001/journal.pcbi.0010039.st001.xls.txt.0 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0010039.st003/journal.pcbi.0010039.st003.xls.txt.1 col:1 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0010039.st001/journal.pcbi.0010039.st001.xls.txt.1 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0010039.st003/journal.pcbi.0010039.st003.xls.txt.2 col:1 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0010039.st001/journal.pcbi.0010039.st001.xls.txt.2 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0010039.st001/journal.pcbi.0010039.st001.xls.txt.3 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0010039.st001/journal.pcbi.0010039.st001.xls.txt.4 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0010039.st001/journal.pcbi.0010039.st001.xls.txt.5 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0010039.st001/journal.pcbi.0010039.st001.xls.txt.6 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0020053.st002/journal.pcbi.0020053.st002.xls.txt.0 col:2 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pcbi.0020053.st002/journal.pcbi.0020053.st002.xls.txt.1 col:2 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st001/journal.pcbi.0020074.st001.xls.txt.0 col:3 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st001/journal.pcbi.0020074.st001.xls.txt.0 col:7 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st001/journal.pcbi.0020074.st001.xls.txt.1 col:3 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st001/journal.pcbi.0020074.st001.xls.txt.1 col:7 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st001/journal.pcbi.0020074.st001.xls.txt.2 col:3 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st001/journal.pcbi.0020074.st001.xls.txt.2 col:7 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st001/journal.pcbi.0020074.st001.xls.txt.3 col:3 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st001/journal.pcbi.0020074.st001.xls.txt.3 col:7 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st002/journal.pcbi.0020074.st002.xls.txt.0 col:2 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st002/journal.pcbi.0020074.st002.xls.txt.0 col:6 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st002/journal.pcbi.0020074.st002.xls.txt.1 col:2 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st002/journal.pcbi.0020074.st002.xls.txt.1 col:6 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st002/journal.pcbi.0020074.st002.xls.txt.2 col:2 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st002/journal.pcbi.0020074.st002.xls.txt.2 col:6 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st002/journal.pcbi.0020074.st002.xls.txt.3 col:2 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st002/journal.pcbi.0020074.st002.xls.txt.3 col:6 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st008/journal.pcbi.0020074.st008.xls.txt.0 col:10 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st008/journal.pcbi.0020074.st008.xls.txt.0 col:11 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st008/journal.pcbi.0020074.st008.xls.txt.1 col:10 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st008/journal.pcbi.0020074.st008.xls.txt.1 col:11 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st008/journal.pcbi.0020074.st008.xls.txt.2 col:10 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0020074.st008/journal.pcbi.0020074.st008.xls.txt.2 col:11 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0020113.st006/journal.pcbi.0020113.st006.xls.txt.0 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0020145.st001/journal.pcbi.0020145.st001.xls.txt.0 col:2 species:Hsapiens
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.0020145.st001	http://dx.plos.org/10.1371/journal.pcbi.0020145.st001	2	2006/09/02
+http___dx.plos.org_10.1371_journal.pcbi.0020158.st008/journal.pcbi.0020158.st008.xls.txt.0 col:4 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pcbi.0020167.st002/journal.pcbi.0020167.st002.xls.txt.0 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pcbi.0020158.st008/journal.pcbi.0020158.st008.xls.txt.1 col:4 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pcbi.0020167.st002/journal.pcbi.0020167.st002.xls.txt.1 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pcbi.0020167.st002/journal.pcbi.0020167.st002.xls.txt.2 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pcbi.0020158.st008/journal.pcbi.0020158.st008.xls.txt.2 col:4 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pcbi.0020167.st004/journal.pcbi.0020167.st004.xls.txt.0 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pcbi.0020167.st003/journal.pcbi.0020167.st003.xls.txt.0 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pcbi.0020167.st004/journal.pcbi.0020167.st004.xls.txt.1 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pcbi.0020167.st003/journal.pcbi.0020167.st003.xls.txt.1 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pcbi.0020167.st004/journal.pcbi.0020167.st004.xls.txt.2 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pcbi.0020167.st003/journal.pcbi.0020167.st003.xls.txt.2 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pcbi.0020167.st006/journal.pcbi.0020167.st006.xls.txt.0 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pcbi.0020167.st006/journal.pcbi.0020167.st006.xls.txt.1 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pcbi.0020167.st006/journal.pcbi.0020167.st006.xls.txt.2 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pcbi.0030030.st001/journal.pcbi.0030030.st001.xls.txt.0 col:3 species:Mmusculus
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.0030030.st001	http://dx.plos.org/10.1371/journal.pcbi.0030030.st001	3	2005/03/05
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.0030030.st001	http://dx.plos.org/10.1371/journal.pcbi.0030030.st001	3	2005/09/15
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.0030030.st001	http://dx.plos.org/10.1371/journal.pcbi.0030030.st001	3	2005/09/07
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.0030030.st001	http://dx.plos.org/10.1371/journal.pcbi.0030030.st001	3	2005/09/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.0030030.st001	http://dx.plos.org/10.1371/journal.pcbi.0030030.st001	3	2005/09/02
+http___dx.plos.org_10.1371_journal.pcbi.0030030.st003/journal.pcbi.0030030.st003.xls.txt.0 col:3 species:Rnorvegicus
+http___dx.plos.org_10.1371_journal.pcbi.0030030.st002/journal.pcbi.0030030.st002.xls.txt.0 col:3 species:Rnorvegicus
+http___dx.plos.org_10.1371_journal.pcbi.0030030.st004/journal.pcbi.0030030.st004.xls.txt.0 col:3 species:Rnorvegicus
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st001/journal.pcbi.0030039.st001.xls.txt.0 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st001/journal.pcbi.0030039.st001.xls.txt.0 col:3 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st001/journal.pcbi.0030039.st001.xls.txt.0 col:4 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st001/journal.pcbi.0030039.st001.xls.txt.1 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st001/journal.pcbi.0030039.st001.xls.txt.1 col:3 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st001/journal.pcbi.0030039.st001.xls.txt.1 col:4 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st001/journal.pcbi.0030039.st001.xls.txt.2 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st001/journal.pcbi.0030039.st001.xls.txt.2 col:3 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st001/journal.pcbi.0030039.st001.xls.txt.2 col:4 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st002/journal.pcbi.0030039.st002.xls.txt.0 col:1 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st003/journal.pcbi.0030039.st003.xls.txt.0 col:1 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st003/journal.pcbi.0030039.st003.xls.txt.0 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st003/journal.pcbi.0030039.st003.xls.txt.0 col:3 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st003/journal.pcbi.0030039.st003.xls.txt.0 col:4 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st004/journal.pcbi.0030039.st004.xls.txt.0 col:1 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st004/journal.pcbi.0030039.st004.xls.txt.1 col:1 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030039.st004/journal.pcbi.0030039.st004.xls.txt.2 col:1 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pcbi.0030063.st001/journal.pcbi.0030063.st001.xls.txt.0 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0030063.st001/journal.pcbi.0030063.st001.xls.txt.1 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.0030063.st003/journal.pcbi.0030063.st003.xls.txt.0 col:2 species:Hsapiens
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.0030063.st003	http://dx.plos.org/10.1371/journal.pcbi.0030063.st003	2	2007/09/02
+http___dx.plos.org_10.1371_journal.pcbi.0030063.st003/journal.pcbi.0030063.st003.xls.txt.1 col:2 species:Hsapiens
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.0030063.st003	http://dx.plos.org/10.1371/journal.pcbi.0030063.st003	2	2007/09/02
+http___dx.plos.org_10.1371_journal.pcbi.1003983.s001/journal.pcbi.1003983.s001.xls.txt.0 col:1 species:Hsapiens
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1003983.s001	http://dx.plos.org/10.1371/journal.pcbi.1003983.s001	1	2011/08/31
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1003983.s001	http://dx.plos.org/10.1371/journal.pcbi.1003983.s001	1	2004/08/31
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1003983.s001	http://dx.plos.org/10.1371/journal.pcbi.1003983.s001	1	2006/08/31
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1003983.s001	http://dx.plos.org/10.1371/journal.pcbi.1003983.s001	1	2000/08/31
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1003983.s001	http://dx.plos.org/10.1371/journal.pcbi.1003983.s001	1	2003/08/31
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1003983.s001	http://dx.plos.org/10.1371/journal.pcbi.1003983.s001	1	2002/08/31
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1003983.s001	http://dx.plos.org/10.1371/journal.pcbi.1003983.s001	1	2007/08/31
+http___dx.plos.org_10.1371_journal.pcbi.1003983.s002/journal.pcbi.1003983.s002.xls.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1003983.s003/journal.pcbi.1003983.s003.xls.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1003983.s006/journal.pcbi.1003983.s006.xls.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004046.s019/journal.pcbi.1004046.s019.xls.txt.0 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004086.s011/journal.pcbi.1004086.s011.xlsx.txt.0 col:4 species:Drerio
+http___dx.plos.org_10.1371_journal.pcbi.1004086.s012/journal.pcbi.1004086.s012.xls.txt.0 col:1 species:Drerio
+http___dx.plos.org_10.1371_journal.pcbi.1004086.s012/journal.pcbi.1004086.s012.xls.txt.1 col:1 species:Drerio
+http___dx.plos.org_10.1371_journal.pcbi.1004086.s012/journal.pcbi.1004086.s012.xls.txt.2 col:1 species:Drerio
+http___dx.plos.org_10.1371_journal.pcbi.1004086.s014/journal.pcbi.1004086.s014.xlsx.txt.0 col:1 species:Drerio
+http___dx.plos.org_10.1371_journal.pcbi.1004086.s015/journal.pcbi.1004086.s015.xlsx.txt.0 col:1 species:Drerio
+http___dx.plos.org_10.1371_journal.pcbi.1004086.s015/journal.pcbi.1004086.s015.xlsx.txt.1 col:1 species:Drerio
+http___dx.plos.org_10.1371_journal.pcbi.1004086.s015/journal.pcbi.1004086.s015.xlsx.txt.2 col:1 species:Drerio
+http___dx.plos.org_10.1371_journal.pcbi.1004086.s016/journal.pcbi.1004086.s016.xlsx.txt.0 col:2 species:Drerio
+http___dx.plos.org_10.1371_journal.pcbi.1004088.s001/journal.pcbi.1004088.s001.xlsx.txt.0 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004088.s001/journal.pcbi.1004088.s001.xlsx.txt.1 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004094.s021/journal.pcbi.1004094.s021.xlsx.txt.0 col:1 species:Dmelanogaster
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004094.s021	http://dx.plos.org/10.1371/journal.pcbi.1004094.s021	1	2014/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004094.s021	http://dx.plos.org/10.1371/journal.pcbi.1004094.s021	1	2014/09/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004094.s021	http://dx.plos.org/10.1371/journal.pcbi.1004094.s021	1	2014/09/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004094.s021	http://dx.plos.org/10.1371/journal.pcbi.1004094.s021	1	2014/09/05
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004094.s021	http://dx.plos.org/10.1371/journal.pcbi.1004094.s021	1	2014/12/01
+http___dx.plos.org_10.1371_journal.pcbi.1004147.s003/journal.pcbi.1004147.s003.xlsx.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004147.s004/journal.pcbi.1004147.s004.xlsx.txt.0 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004147.s005/journal.pcbi.1004147.s005.xlsx.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004202.s017/journal.pcbi.1004202.s017.xlsx.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004202.s017/journal.pcbi.1004202.s017.xlsx.txt.0 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004202.s017/journal.pcbi.1004202.s017.xlsx.txt.1 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004202.s017/journal.pcbi.1004202.s017.xlsx.txt.1 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004202.s017/journal.pcbi.1004202.s017.xlsx.txt.2 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004202.s017/journal.pcbi.1004202.s017.xlsx.txt.2 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004202.s018/journal.pcbi.1004202.s018.xlsx.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004202.s018/journal.pcbi.1004202.s018.xlsx.txt.1 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004256.s025/journal.pcbi.1004256.s025.xlsx.txt.0 col:15 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004256.s025/journal.pcbi.1004256.s025.xlsx.txt.0 col:16 species:Ggallus
+http___dx.plos.org_10.1371_journal.pcbi.1004256.s025/journal.pcbi.1004256.s025.xlsx.txt.0 col:17 species:Ggallus
+http___dx.plos.org_10.1371_journal.pcbi.1004256.s025/journal.pcbi.1004256.s025.xlsx.txt.1 col:15 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004256.s025/journal.pcbi.1004256.s025.xlsx.txt.1 col:16 species:Ggallus
+http___dx.plos.org_10.1371_journal.pcbi.1004256.s025/journal.pcbi.1004256.s025.xlsx.txt.1 col:17 species:Ggallus
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s001/journal.pcbi.1004269.s001.xls.txt.0 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s001/journal.pcbi.1004269.s001.xls.txt.1 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s001/journal.pcbi.1004269.s001.xls.txt.2 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s002/journal.pcbi.1004269.s002.xls.txt.0 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s002/journal.pcbi.1004269.s002.xls.txt.1 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s003/journal.pcbi.1004269.s003.xls.txt.0 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s004/journal.pcbi.1004269.s004.xls.txt.0 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s005/journal.pcbi.1004269.s005.xls.txt.0 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s006/journal.pcbi.1004269.s006.xls.txt.0 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s007/journal.pcbi.1004269.s007.xls.txt.0 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s009/journal.pcbi.1004269.s009.xls.txt.0 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s010/journal.pcbi.1004269.s010.xls.txt.0 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s011/journal.pcbi.1004269.s011.xls.txt.0 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s012/journal.pcbi.1004269.s012.xls.txt.0 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s014/journal.pcbi.1004269.s014.xls.txt.0 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s015/journal.pcbi.1004269.s015.xls.txt.0 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s016/journal.pcbi.1004269.s016.xls.txt.0 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s017/journal.pcbi.1004269.s017.xls.txt.0 col:8 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004269.s019/journal.pcbi.1004269.s019.xls.txt.0 col:1 species:Hsapiens
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/09/11
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/03/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/09/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/12/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/09/03
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/03/05
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/09/14
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/09/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/09/05
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/03/03
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/09/08
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/09/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/03/08
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/09/12
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/03/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/03/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/03/07
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/09/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/03/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/09/09
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/03/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/09/07
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/03/09
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/03/11
+2016-03-31	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	http://dx.plos.org/10.1371/journal.pcbi.1004269.s019	1	2014/09/15
+http___dx.plos.org_10.1371_journal.pcbi.1004271.s018/journal.pcbi.1004271.s018.xlsx.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004324.s001/journal.pcbi.1004324.s001.xls.txt.0 col:3 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004325.s002/journal.pcbi.1004325.s002.xlsx.txt.0 col:1 species:Ggallus
+http___dx.plos.org_10.1371_journal.pcbi.1004325.s002/journal.pcbi.1004325.s002.xlsx.txt.1 col:1 species:Ggallus
+http___dx.plos.org_10.1371_journal.pcbi.1004391.s003/journal.pcbi.1004391.s003.xlsx.txt.0 col:1 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004391.s003/journal.pcbi.1004391.s003.xlsx.txt.0 col:3 species:Athaliana
+http___dx.plos.org_10.1371_journal.pcbi.1004405.s001/journal.pcbi.1004405.s001.xls.txt.0 col:7 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004405.s011/journal.pcbi.1004405.s011.xlsx.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004426.s007/journal.pcbi.1004426.s007.xlsx.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004441.s010/journal.pcbi.1004441.s010.xls.txt.0 col:10 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004441.s010/journal.pcbi.1004441.s010.xls.txt.1 col:10 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004441.s010/journal.pcbi.1004441.s010.xls.txt.2 col:10 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004441.s011/journal.pcbi.1004441.s011.xls.txt.0 col:10 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pcbi.1004441.s011/journal.pcbi.1004441.s011.xls.txt.1 col:10 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pcbi.1004441.s011/journal.pcbi.1004441.s011.xls.txt.2 col:10 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pcbi.1004508.s008/journal.pcbi.1004508.s008.xls.txt.0 col:1 species:Ggallus
+http___dx.plos.org_10.1371_journal.pcbi.1004553.s022/journal.pcbi.1004553.s022.xlsx.txt.0 col:4 species:Ggallus
+http___dx.plos.org_10.1371_journal.pcbi.1004553.s022/journal.pcbi.1004553.s022.xlsx.txt.0 col:5 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.0 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.0 col:3 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.0 col:4 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.0 col:5 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.0 col:6 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.0 col:7 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.0 col:8 species:Ggallus
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.0 col:9 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.1 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.1 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.1 col:3 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.1 col:4 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.1 col:5 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.1 col:6 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.1 col:7 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.1 col:8 species:Ggallus
+http___dx.plos.org_10.1371_journal.pcbi.1004571.s015/journal.pcbi.1004571.s015.xls.txt.1 col:9 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004575.s023/journal.pcbi.1004575.s023.xlsx.txt.0 col:2 species:Rnorvegicus
+http___dx.plos.org_10.1371_journal.pcbi.1004575.s027/journal.pcbi.1004575.s027.xlsx.txt.0 col:1 species:Rnorvegicus
+http___dx.plos.org_10.1371_journal.pcbi.1004575.s030/journal.pcbi.1004575.s030.xlsx.txt.0 col:2 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pcbi.1004590.s024/journal.pcbi.1004590.s024.xlsx.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004590.s025/journal.pcbi.1004590.s025.xlsx.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004590.s026/journal.pcbi.1004590.s026.xlsx.txt.0 col:10 species:Ggallus
+http___dx.plos.org_10.1371_journal.pcbi.1004590.s026/journal.pcbi.1004590.s026.xlsx.txt.0 col:12 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004590.s027/journal.pcbi.1004590.s027.xlsx.txt.0 col:8 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004590.s027/journal.pcbi.1004590.s027.xlsx.txt.0 col:9 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004590.s028/journal.pcbi.1004590.s028.xlsx.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004590.s029/journal.pcbi.1004590.s029.xlsx.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pcbi.1004597.s003/journal.pcbi.1004597.s003.xlsx.txt.0 col:2 species:Hsapiens

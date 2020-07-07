@@ -1,0 +1,348 @@
+http___dx.plos.org_10.1371_journal.pbio.0030007.st001/journal.pbio.0030007.st001.xls.txt.0 col:6 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0030007.st001/journal.pbio.0030007.st001.xls.txt.1 col:6 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0030007.st001/journal.pbio.0030007.st001.xls.txt.2 col:6 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0030170.sd001/journal.pbio.0030170.sd001.xls.txt.0 col:4 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.0030254.st004/journal.pbio.0030254.st004.xls.txt.0 col:2 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.0030254.st005/journal.pbio.0030254.st005.xls.txt.0 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0030254.st006/journal.pbio.0030254.st006.xls.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0030254.st007/journal.pbio.0030254.st007.xls.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0030254.st008/journal.pbio.0030254.st008.xls.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0030312.st002/journal.pbio.0030312.st002.xls.txt.0 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pbio.0030312.st002/journal.pbio.0030312.st002.xls.txt.1 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pbio.0030312.st002/journal.pbio.0030312.st002.xls.txt.2 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pbio.0030312.st003/journal.pbio.0030312.st003.xls.txt.0 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pbio.0030312.st003/journal.pbio.0030312.st003.xls.txt.1 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pbio.0030312.st003/journal.pbio.0030312.st003.xls.txt.2 col:1 species:Celegans
+http___dx.plos.org_10.1371_journal.pbio.0030312.st004/journal.pbio.0030312.st004.xls.txt.0 col:2 species:Celegans
+http___dx.plos.org_10.1371_journal.pbio.0030312.st004/journal.pbio.0030312.st004.xls.txt.1 col:2 species:Celegans
+http___dx.plos.org_10.1371_journal.pbio.0030312.st004/journal.pbio.0030312.st004.xls.txt.2 col:2 species:Celegans
+http___dx.plos.org_10.1371_journal.pbio.0040052.st001/journal.pbio.0040052.st001.xls.txt.0 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0040052.st001/journal.pbio.0040052.st001.xls.txt.1 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0040052.st001/journal.pbio.0040052.st001.xls.txt.2 col:2 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0040369.sd002/journal.pbio.0040369.sd002.xls.txt.0 col:4 species:Rnorvegicus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2008/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2002/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2004/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2003/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2009/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2001/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2006/09/01
+http___dx.plos.org_10.1371_journal.pbio.0040369.sd002/journal.pbio.0040369.sd002.xls.txt.1 col:4 species:Rnorvegicus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2008/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2002/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2004/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2003/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2009/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2001/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2006/09/01
+http___dx.plos.org_10.1371_journal.pbio.0040369.sd002/journal.pbio.0040369.sd002.xls.txt.2 col:4 species:Rnorvegicus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2008/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2002/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2004/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2003/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2009/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2001/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	http://dx.plos.org/10.1371/journal.pbio.0040369.sd002	4	2006/09/01
+http___dx.plos.org_10.1371_journal.pbio.0050040.st001/journal.pbio.0050040.st001.xls.txt.0 col:1 species:Rnorvegicus
+http___dx.plos.org_10.1371_journal.pbio.0050040.st001/journal.pbio.0050040.st001.xls.txt.1 col:1 species:Rnorvegicus
+http___dx.plos.org_10.1371_journal.pbio.0050040.st001/journal.pbio.0050040.st001.xls.txt.2 col:1 species:Rnorvegicus
+http___dx.plos.org_10.1371_journal.pbio.0050171.st002/journal.pbio.0050171.st002.xls.txt.0 col:6 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.0050171.st003/journal.pbio.0050171.st003.xls.txt.0 col:6 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0050171.st004/journal.pbio.0050171.st004.xls.txt.0 col:6 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.0050171.st008/journal.pbio.0050171.st008.xls.txt.0 col:6 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0050171.st012/journal.pbio.0050171.st012.xls.txt.0 col:6 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.0050201.st004/journal.pbio.0050201.st004.xls.txt.0 col:3 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.0050201.st004/journal.pbio.0050201.st004.xls.txt.1 col:3 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.0050201.st004/journal.pbio.0050201.st004.xls.txt.2 col:3 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.0050201.st005/journal.pbio.0050201.st005.xls.txt.0 col:3 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.0050201.st007/journal.pbio.0050201.st007.xls.txt.0 col:10 species:Rnorvegicus
+http___dx.plos.org_10.1371_journal.pbio.0050232.st002/journal.pbio.0050232.st002.xls.txt.0 col:2 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.0050232.st002/journal.pbio.0050232.st002.xls.txt.1 col:2 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.0050232.st001/journal.pbio.0050232.st001.xls.txt.0 col:2 species:Dmelanogaster
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	2	2006/09/05
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	2	2006/09/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	2	2006/12/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	2	2006/09/01
+http___dx.plos.org_10.1371_journal.pbio.0050232.st001/journal.pbio.0050232.st001.xls.txt.1 col:2 species:Dmelanogaster
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	2	2006/09/05
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	2	2006/09/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	2	2006/12/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	2	2006/09/01
+http___dx.plos.org_10.1371_journal.pbio.0050232.st001/journal.pbio.0050232.st001.xls.txt.2 col:2 species:Dmelanogaster
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	2	2006/09/05
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	2	2006/09/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	2	2006/12/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	http://dx.plos.org/10.1371/journal.pbio.0050232.st001	2	2006/09/01
+http___dx.plos.org_10.1371_journal.pbio.0050254.st007/journal.pbio.0050254.st007.xls.txt.0 col:4 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0050254.st007/journal.pbio.0050254.st007.xls.txt.1 col:4 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0050254.st007/journal.pbio.0050254.st007.xls.txt.2 col:4 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0050297.st005/journal.pbio.0050297.st005.xls.txt.0 col:5 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.0050297.st005/journal.pbio.0050297.st005.xls.txt.0 col:7 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0060107.st002/journal.pbio.0060107.st002.xls.txt.0 col:4 species:Hsapiens
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st002	http://dx.plos.org/10.1371/journal.pbio.0060107.st002	4	2008/09/11
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st002	http://dx.plos.org/10.1371/journal.pbio.0060107.st002	4	2008/03/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st002	http://dx.plos.org/10.1371/journal.pbio.0060107.st002	4	2008/03/09
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st002	http://dx.plos.org/10.1371/journal.pbio.0060107.st002	4	2008/09/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st002	http://dx.plos.org/10.1371/journal.pbio.0060107.st002	4	2008/09/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st002	http://dx.plos.org/10.1371/journal.pbio.0060107.st002	4	2008/03/05
+http___dx.plos.org_10.1371_journal.pbio.0060107.st005/journal.pbio.0060107.st005.xls.txt.0 col:3 species:Mmusculus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/07
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/05
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/11
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/03
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/07
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/03
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/09
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/08
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/08
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/09
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/07
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/09
+http___dx.plos.org_10.1371_journal.pbio.0060107.st005/journal.pbio.0060107.st005.xls.txt.1 col:3 species:Mmusculus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/07
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/05
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/11
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/03
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/07
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/03
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/09
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/08
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/08
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/09
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/03/07
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	http://dx.plos.org/10.1371/journal.pbio.0060107.st005	3	2007/09/09
+http___dx.plos.org_10.1371_journal.pbio.0060107.st006/journal.pbio.0060107.st006.xls.txt.0 col:3 species:Mmusculus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/03/05
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/03/05
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/03/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/09/03
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/09/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/09/07
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/09/11
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/09/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/09/08
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/09/09
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/03/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/03/07
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/09/03
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/09/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/09/05
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/03/03
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/09/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/03/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/03/08
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/09/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/09/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/03/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/09/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	http://dx.plos.org/10.1371/journal.pbio.0060107.st006	3	2007/03/09
+http___dx.plos.org_10.1371_journal.pbio.0060178.st002/journal.pbio.0060178.st002.xls.txt.0 col:1 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.0060178.st003/journal.pbio.0060178.st003.xls.txt.0 col:1 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.0060178.st003/journal.pbio.0060178.st003.xls.txt.1 col:1 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.0060178.st004/journal.pbio.0060178.st004.xls.txt.0 col:2 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.0060178.st003/journal.pbio.0060178.st003.xls.txt.2 col:1 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.0060245.st001/journal.pbio.0060245.st001.xls.txt.0 col:1 species:Mmusculus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/03/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/09/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/09/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/03/09
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/09/08
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/09/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/09/09
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/03/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/09/03
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/09/12
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/09/05
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/03/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/03/03
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/03/05
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/03/07
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/09/15
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/09/11
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/03/08
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/03/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/09/07
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	http://dx.plos.org/10.1371/journal.pbio.0060245.st001	1	2007/09/06
+http___dx.plos.org_10.1371_journal.pbio.0060251.st009/journal.pbio.0060251.st009.xls.txt.0 col:2 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.0060251.st009/journal.pbio.0060251.st009.xls.txt.1 col:2 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.0060251.st009/journal.pbio.0060251.st009.xls.txt.2 col:2 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.0060256.sd001/journal.pbio.0060256.sd001.xls.txt.0 col:5 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.0060256.sd004/journal.pbio.0060256.sd004.xls.txt.0 col:4 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.0060256.sd004/journal.pbio.0060256.sd004.xls.txt.0 col:8 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.0060256.sd004/journal.pbio.0060256.sd004.xls.txt.1 col:4 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.0060256.sd004/journal.pbio.0060256.sd004.xls.txt.1 col:8 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.0060256.sd005/journal.pbio.0060256.sd005.xls.txt.0 col:3 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.0060256.sd005/journal.pbio.0060256.sd005.xls.txt.1 col:3 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.0060301.sd007/journal.pbio.0060301.sd007.xls.txt.0 col:1 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.0060301.sd007/journal.pbio.0060301.sd007.xls.txt.1 col:1 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.0060301.sd007/journal.pbio.0060301.sd007.xls.txt.2 col:1 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.0060301.sd008/journal.pbio.0060301.sd008.xls.txt.0 col:1 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.0060301.sd008/journal.pbio.0060301.sd008.xls.txt.1 col:1 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.0060301.sd008/journal.pbio.0060301.sd008.xls.txt.2 col:1 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.0060301.st002/journal.pbio.0060301.st002.xls.txt.0 col:3 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.0060326.st002/journal.pbio.0060326.st002.xls.txt.0 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.0060326.st002/journal.pbio.0060326.st002.xls.txt.0 col:7 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.0060326.st002/journal.pbio.0060326.st002.xls.txt.0 col:11 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.0060326.st003/journal.pbio.0060326.st003.xls.txt.0 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.0060326.st003/journal.pbio.0060326.st003.xls.txt.0 col:10 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.0060326.st003/journal.pbio.0060326.st003.xls.txt.1 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.0060326.st003/journal.pbio.0060326.st003.xls.txt.1 col:10 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.0060326.st004/journal.pbio.0060326.st004.xls.txt.0 col:1 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.0060326.st004/journal.pbio.0060326.st004.xls.txt.1 col:1 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.0060326.st004/journal.pbio.0060326.st004.xls.txt.2 col:1 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.0060326.st004/journal.pbio.0060326.st004.xls.txt.3 col:1 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.0 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.1 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.10 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.11 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.12 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.13 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.14 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.15 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.16 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.17 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.18 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.19 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.2 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.3 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.4 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.5 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.6 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.7 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.8 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002076.s007/journal.pbio.1002076.s007.xls.txt.9 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002080.s004/journal.pbio.1002080.s004.xlsx.txt.0 col:3 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.1002080.s004/journal.pbio.1002080.s004.xlsx.txt.0 col:5 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.1002080.s004/journal.pbio.1002080.s004.xlsx.txt.0 col:7 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.1002114.s011/journal.pbio.1002114.s011.xlsx.txt.0 col:1 species:Hsapiens
+http___dx.plos.org_10.1371_journal.pbio.1002135.s019/journal.pbio.1002135.s019.xlsx.txt.0 col:4 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.1002135.s019/journal.pbio.1002135.s019.xlsx.txt.1 col:4 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.1002135.s019/journal.pbio.1002135.s019.xlsx.txt.2 col:4 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.1002155.s019/journal.pbio.1002155.s019.xlsx.txt.0 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002197.s009/journal.pbio.1002197.s009.xlsx.txt.0 col:2 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.1002197.s009/journal.pbio.1002197.s009.xlsx.txt.1 col:2 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.1002197.s009/journal.pbio.1002197.s009.xlsx.txt.2 col:2 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.1002207.s015/journal.pbio.1002207.s015.xlsx.txt.0 col:3 species:Dmelanogaster
+http___dx.plos.org_10.1371_journal.pbio.1002279.s013/journal.pbio.1002279.s013.xlsx.txt.0 col:2 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.1002279.s014/journal.pbio.1002279.s014.xlsx.txt.0 col:2 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.1002279.s015/journal.pbio.1002279.s015.xlsx.txt.0 col:2 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.0 col:1 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.0 col:2 species:Mmusculus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/03/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/09/14
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/03/11
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/09/09
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.0 col:3 species:Mmusculus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/09
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/08
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/03
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.0 col:4 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.1 col:1 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.1 col:2 species:Mmusculus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/03/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/09/14
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/03/11
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/09/09
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.1 col:3 species:Mmusculus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/09
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/08
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/03
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.1 col:4 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.2 col:1 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.2 col:2 species:Mmusculus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/03/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/09/14
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/03/11
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/09/09
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.2 col:3 species:Mmusculus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/09
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/08
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/03
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.2 col:4 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.3 col:1 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.3 col:2 species:Mmusculus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/03/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/09/14
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/03/11
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/09/09
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.3 col:3 species:Mmusculus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/09
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/08
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/03
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.3 col:4 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.4 col:1 species:Mmusculus
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.4 col:2 species:Mmusculus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/03/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/09/14
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/03/11
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	2	2010/09/09
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.4 col:3 species:Mmusculus
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/10
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/09
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/01
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/08
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/03/02
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/06
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/04
+2016-03-31	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	http://dx.plos.org/10.1371/journal.pbio.1002277.s004	3	2010/09/03
+http___dx.plos.org_10.1371_journal.pbio.1002277.s004/journal.pbio.1002277.s004.xlsx.txt.4 col:4 species:Ggallus
+http___dx.plos.org_10.1371_journal.pbio.1002291.s006/journal.pbio.1002291.s006.xlsx.txt.0 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002291.s006/journal.pbio.1002291.s006.xlsx.txt.1 col:2 species:Scerevisiae
+http___dx.plos.org_10.1371_journal.pbio.1002291.s006/journal.pbio.1002291.s006.xlsx.txt.2 col:2 species:Scerevisiae

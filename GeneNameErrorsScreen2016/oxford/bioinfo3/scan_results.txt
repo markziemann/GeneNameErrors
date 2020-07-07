@@ -1,0 +1,811 @@
+http___bioinformatics.oxfordjournals.org___content_suppl_2005_05_26_bti466.DC1_SupplTable1.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2006_10_25_22.21.2650.DC1_supplement-table1.xls/download.xls.txt.0 col:3 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2006_10_25_22.21.2650.DC1_supplement-table1.xls/download.xls.txt.1 col:3 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2006_10_25_22.21.2650.DC1_supplement-table1.xls/download.xls.txt.2 col:3 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2006_10_25_22.21.2650.DC1_supplement-table2.xls/download.xls.txt.0 col:3 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2006_10_25_22.21.2650.DC1_supplement-table2.xls/download.xls.txt.1 col:3 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2006_10_25_22.21.2650.DC1_supplement-table2.xls/download.xls.txt.2 col:3 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2007_01_25_btl666.DC1_btl666_Supplementary_Material_2_Environmental_Dist.xls/download.xls.txt.0 col:1 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2007_01_25_btl666.DC1_btl666_Supplementary_Material_3_Nonpolar_Dist.xls/download.xls.txt.0 col:1 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2007_01_25_btl666.DC1_btl666_Supplementary_Material_2_Environmental_Dist.xls/download.xls.txt.1 col:1 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2007_01_25_btl666.DC1_btl666_Supplementary_Material_2_Environmental_Dist.xls/download.xls.txt.2 col:1 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2007_01_25_btl666.DC1_btl666_Supplementary_Material_4_Pharmacological_Dist.xls/download.xls.txt.0 col:1 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2007_01_25_btl666.DC1_btl666_Supplementary_Material_5_PseudoPharmacological_Dist.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2007_01_25_btl666.DC1_btl666_Supplementary_Material_4_Pharmacological_Dist.xls/download.xls.txt.1 col:1 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2007_01_25_btl666.DC1_btl666_Supplementary_Material_4_Pharmacological_Dist.xls/download.xls.txt.2 col:1 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2007_09_19_btm437.DC1_bioinf-2007-1007-File006.xls/download.xls.txt.0 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2007_09_26_btm430.DC1_bioinf-2007-0357-File003.xls/download.xls.txt.0 col:1 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2007_09_26_btm430.DC1_bioinf-2007-0357-File004.xls/download.xls.txt.0 col:1 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2007_09_26_btm430.DC1_bioinf-2007-0357-File004.xls/download.xls.txt.1 col:1 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2007_09_26_btm430.DC1_bioinf-2007-0357-File004.xls/download.xls.txt.2 col:1 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2008_06_15_btn311.DC1_bioinf-2008-0615-File008.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2008_07_29_btn402.DC1_bioinf-2008-0517-File004.xls/download.xls.txt.0 col:6 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2008_12_17_btn644.DC1_bioinf-2008-0430-File003.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2008_12_17_btn644.DC1_bioinf-2008-0430-File003.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2008_12_17_btn644.DC1_bioinf-2008-0430-File003.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File008.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File010.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File012.xls/download.xls.txt.0 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File012.xls/download.xls.txt.1 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File012.xls/download.xls.txt.2 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File014.xls/download.xls.txt.0 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File014.xls/download.xls.txt.1 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File015.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File014.xls/download.xls.txt.2 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File015.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File016.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File017.xls/download.xls.txt.0 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File017.xls/download.xls.txt.1 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File017.xls/download.xls.txt.2 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File016.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File016.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File019.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File019.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_03_22_btp158.DC1_bioinf-2009-0034-File019.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File001.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File001.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File001.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.0 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.1 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.10 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_20_btp384.DC1_bioinf-2009-0326-File008.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_20_btp384.DC1_bioinf-2009-0326-File008.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_20_btp384.DC1_bioinf-2009-0326-File008.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_20_btp384.DC1_bioinf-2009-0326-File008.xls/download.xls.txt.3 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.11 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.12 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.13 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.14 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.15 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.16 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.17 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.18 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_08_20_btp388.DC1_bioinf-2009-0402-File002.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_08_20_btp388.DC1_bioinf-2009-0402-File002.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_08_20_btp388.DC1_bioinf-2009-0402-File002.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.19 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.2 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.20 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.3 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.4 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.5 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.6 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.7 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.8 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_06_17_btp290.DC1_bioinf-2008-1072-File003.xls/download.xls.txt.9 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_09_16_btp544.DC1_bioinf-2009-1076-File001.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_09_16_btp544.DC1_bioinf-2009-1076-File002.xls/download.xls.txt.0 col:1 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_10_13_btp517.DC1_bioinf-2009-0193-File013.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_10_13_btp517.DC1_bioinf-2009-0193-File015.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_10_13_btp517.DC1_bioinf-2009-0193-File016.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_10_22_btp604.DC1_bioinf-2009-0696-File003.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_10_22_btp604.DC1_bioinf-2009-0696-File003.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_10_22_btp604.DC1_bioinf-2009-0696-File003.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2009_10_22_btp604.DC1_bioinf-2009-0696-File003.xls/download.xls.txt.3 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_02_07_btq051.DC1_bioinf-2009-1611-File002.xls/download.xls.txt.0 col:1 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_02_07_btq051.DC1_bioinf-2009-1611-File002.xls/download.xls.txt.1 col:1 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_02_07_btq051.DC1_bioinf-2009-1611-File002.xls/download.xls.txt.2 col:1 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_02_07_btq051.DC1_bioinf-2009-1611-File002.xls/download.xls.txt.3 col:1 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_21_btq207.DC1_bioinf-2009-1935-File009.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_21_btq207.DC1_bioinf-2009-1935-File009.xls/download.xls.txt.0 col:4 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_21_btq207.DC1_bioinf-2009-1935-File009.xls/download.xls.txt.0 col:5 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_21_btq207.DC1_bioinf-2009-1935-File009.xls/download.xls.txt.0 col:6 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_21_btq207.DC1_bioinf-2009-1935-File009.xls/download.xls.txt.1 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_21_btq207.DC1_bioinf-2009-1935-File009.xls/download.xls.txt.1 col:4 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_21_btq207.DC1_bioinf-2009-1935-File009.xls/download.xls.txt.1 col:5 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_21_btq207.DC1_bioinf-2009-1935-File009.xls/download.xls.txt.1 col:6 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_21_btq207.DC1_bioinf-2009-1935-File009.xls/download.xls.txt.2 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_21_btq207.DC1_bioinf-2009-1935-File009.xls/download.xls.txt.2 col:4 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_21_btq207.DC1_bioinf-2009-1935-File009.xls/download.xls.txt.2 col:5 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_21_btq207.DC1_bioinf-2009-1935-File009.xls/download.xls.txt.2 col:6 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.0 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.0 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.1 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.1 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.10 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.10 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.11 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.11 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.12 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.12 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.13 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.13 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.14 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.14 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.15 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.15 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.16 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.16 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.17 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.17 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.18 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.18 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.19 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.19 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.2 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.2 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.20 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.20 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.21 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.21 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.22 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.22 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.23 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.23 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.24 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.24 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.25 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.25 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.26 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.26 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.27 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.27 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.0 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.3 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.0 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.3 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.1 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.1 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.10 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.10 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.4 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.11 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.4 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.11 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.12 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.5 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.12 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.5 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.13 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.13 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.14 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.14 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.6 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.15 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.6 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.15 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.16 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.16 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.17 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.17 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.7 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.7 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.18 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.18 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.19 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.19 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.2 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.8 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.2 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.8 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.20 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.20 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.21 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.9 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.21 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File003.xls/download.xls.txt.9 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.22 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.22 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.23 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.23 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.24 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.24 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.25 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.25 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.26 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.26 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.27 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.27 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.3 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.3 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.4 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.4 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.5 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.5 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.6 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.6 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.7 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.7 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.8 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.8 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.9 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_04_23_btp316.DC1_bioinf-2008-1995-File004.xls/download.xls.txt.9 col:3 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_06_07_btq275.DC1_bioinf-2010-0066-File004.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_06_07_btq275.DC1_bioinf-2010-0066-File004.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_06_07_btq275.DC1_bioinf-2010-0066-File004.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_06_07_btq275.DC1_bioinf-2010-0066-File004.xls/download.xls.txt.3 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_06_07_btq275.DC1_bioinf-2010-0066-File004.xls/download.xls.txt.4 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_06_07_btq275.DC1_bioinf-2010-0066-File004.xls/download.xls.txt.5 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_06_07_btq275.DC1_bioinf-2010-0066-File004.xls/download.xls.txt.6 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_06_07_btq275.DC1_bioinf-2010-0066-File004.xls/download.xls.txt.7 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_09_16_btq506.DC1_bioinf-2010-0688-File011.xls/download.xls.txt.0 col:1 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_09_16_btq506.DC1_bioinf-2010-0688-File011.xls/download.xls.txt.0 col:4 species:Rnorvegicus
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_09_16_btq506.DC1_bioinf-2010-0688-File011.xls/download.xls.txt.1 col:1 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_09_16_btq506.DC1_bioinf-2010-0688-File011.xls/download.xls.txt.1 col:4 species:Rnorvegicus
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_12_07_btq658.DC1_SupplementaryData.xls/download.xls.txt.0 col:10 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_12_07_btq658.DC1_SupplementaryData.xls/download.xls.txt.1 col:10 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_12_07_btq658.DC1_SupplementaryData.xls/download.xls.txt.2 col:10 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_12_07_btq658.DC1_SupplementaryData.xls/download.xls.txt.3 col:10 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_12_07_btq658.DC1_SupplementaryData.xls/download.xls.txt.4 col:10 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_12_07_btq658.DC1_SupplementaryData.xls/download.xls.txt.5 col:10 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2010_12_07_btq658.DC1_SupplementaryData.xls/download.xls.txt.6 col:10 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_01_10_btr019.DC1_supplementaryFile1.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_01_10_btr019.DC1_supplementaryFile1.xls/download.xls.txt.1 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_01_10_btr019.DC1_supplementaryFile1.xls/download.xls.txt.2 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_01_10_btr019.DC1_supplementaryFile1.xls/download.xls.txt.3 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_01_10_btr019.DC1_supplementaryFile1.xls/download.xls.txt.4 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_01_10_btr019.DC1_supplementaryFile3.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_01_10_btr019.DC1_supplementaryFile3.xls/download.xls.txt.1 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_01_10_btr019.DC1_supplementaryFile3.xls/download.xls.txt.2 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_01_10_btr019.DC1_supplementaryFile3.xls/download.xls.txt.3 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_02_22_btq710.DC3_Supplementary_file1.xls/download.xls.txt.0 col:8 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_02_22_btq710.DC3_Supplementary_file1.xls/download.xls.txt.1 col:8 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_02_22_btq710.DC3_Supplementary_file1.xls/download.xls.txt.2 col:8 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_02_22_btq710.DC3_Supplementary_file1.xls/download.xls.txt.3 col:8 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_02_22_btr099.DC1_Hub_component_info.xls/download.xls.txt.0 col:3 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_02_22_btr099.DC1_Hub_component_info.xls/download.xls.txt.1 col:3 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_02_22_btr099.DC1_Hub_component_info.xls/download.xls.txt.2 col:3 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_02_22_btr099.DC1_Hub_component_info.xls/download.xls.txt.3 col:3 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	http://bioinformatics.oxfordjournals.org///content/suppl/2011/02/22/btr099.DC1/Hub_component_info.xls	3	2010/10/01
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_04_11_btr166.DC1_Supplementary_Material_3.xls/download.xls.txt.0 col:1 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_04_11_btr166.DC1_Supplementary_Material_3.xls/download.xls.txt.0 col:2 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_04_11_btr166.DC1_Supplementary_Material_3.xls/download.xls.txt.0 col:3 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_04_11_btr166.DC1_Supplementary_Material_3.xls/download.xls.txt.0 col:4 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_04_11_btr166.DC1_Supplementary_Material_3.xls/download.xls.txt.0 col:5 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_04_11_btr166.DC1_Supplementary_Material_3.xls/download.xls.txt.0 col:6 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_04_11_btr166.DC1_Supplementary_Material_3.xls/download.xls.txt.0 col:7 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_04_11_btr166.DC1_Supplementary_Material_3.xls/download.xls.txt.0 col:8 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_04_11_btr166.DC1_Supplementary_Material_3.xls/download.xls.txt.0 col:9 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_04_11_btr166.DC1_Supplementary_Material_3.xls/download.xls.txt.0 col:10 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_04_11_btr166.DC1_Supplementary_Material_3.xls/download.xls.txt.0 col:11 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_04_11_btr166.DC1_Supplementary_Material_3.xls/download.xls.txt.0 col:12 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_04_11_btr166.DC1_Supplementary_Material_3.xls/download.xls.txt.0 col:13 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_04_29_btr270.DC1_goproc.xlsx/download.xlsx.txt.0 col:2 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_04_29_btr270.DC1_goproc.xlsx/download.xlsx.txt.1 col:2 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_05_02_btr280.DC1_ZhangSp_v12.xls/download.xls.txt.0 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_05_02_btr280.DC1_ZhangSp_v12.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_05_02_btr280.DC1_ZhangSp_v12.xls/download.xls.txt.1 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_05_02_btr280.DC1_ZhangSp_v12.xls/download.xls.txt.1 col:2 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_05_02_btr280.DC1_ZhangSp_v12.xls/download.xls.txt.2 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_05_02_btr280.DC1_ZhangSp_v12.xls/download.xls.txt.2 col:2 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_05_02_btr280.DC1_ZhangSp_v12.xls/download.xls.txt.3 col:1 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_05_02_btr280.DC1_ZhangSp_v12.xls/download.xls.txt.3 col:2 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_06_20_btr366.DC1_Bauer_Supplement_Table_S1.xlsx/download.xlsx.txt.0 col:7 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_11_btr410.DC1_Table_S5_validated_pairs_for_mskcc.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_2_List_of_Popular_Genes.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_4_Quality_Groups.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_4_Quality_Groups.xls/download.xls.txt.0 col:5 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_4_Quality_Groups.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_4_Quality_Groups.xls/download.xls.txt.1 col:5 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_4_Quality_Groups.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_4_Quality_Groups.xls/download.xls.txt.2 col:5 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_4_Quality_Groups.xls/download.xls.txt.3 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_4_Quality_Groups.xls/download.xls.txt.3 col:5 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_3_Shared_interactions_among_databases.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_3_Shared_interactions_among_databases.xls/download.xls.txt.0 col:5 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_3_Shared_interactions_among_databases.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_3_Shared_interactions_among_databases.xls/download.xls.txt.1 col:5 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_3_Shared_interactions_among_databases.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_3_Shared_interactions_among_databases.xls/download.xls.txt.2 col:5 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_5_HCV_interactors.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_5_HCV_interactors.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_5_HCV_interactors.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_6_HIV_interactors.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_6_HIV_interactors.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_07_18_btr414.DC1_Supp_Table_6_HIV_interactors.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_10_03_btr546.DC1_Table_S1_v1_0_20110831_1.xls/download.xls.txt.0 col:3 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_09_06_btr499.DC1_preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx/download.xlsx.txt.0 col:3 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2011/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2004/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2002/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2001/08/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2009/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2010/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2006/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2003/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2007/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2005/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2006/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2009/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2015/09/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2006/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2001/12/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2005/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2001/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2007/03/01
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_09_06_btr499.DC1_preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx/download.xlsx.txt.1 col:3 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2011/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2004/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2002/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2001/08/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2009/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2010/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2006/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2003/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2007/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2005/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2006/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2009/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2015/09/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2006/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2001/12/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2005/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2001/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2007/03/01
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_09_06_btr499.DC1_preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx/download.xlsx.txt.2 col:3 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2011/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2004/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2002/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2001/08/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2009/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2010/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2006/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2003/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2007/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2005/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2006/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2009/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2008/12/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2015/09/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2006/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2001/12/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2005/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2001/03/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2011/09/06/btr499.DC1/preparing_doxorubicin_data_for_wilcoxon_analysis.xlsx	3	2007/03/01
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_10_03_btr546.DC1_Table_S2_v1_0_20110831_2.xls/download.xls.txt.0 col:3 species:Scerevisiae
+http___bioinformatics.oxfordjournals.org___content_suppl_2011_12_05_btr661.DC1_Supplemental_table_9_Karnovsky_et_al.xlsx/download.xlsx.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_01_20_bts032.DC1_TableS3.xlsx/download.xlsx.txt.0 col:11 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_03_11_bts112.DC1_Tab_S3-E2F_Modules.xlsx/download.xlsx.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_04_01_bts147.DC1_ResultsPSSM.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_04_01_bts147.DC1_ResultsPSSM.xlsx/download.xlsx.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_04_01_bts147.DC1_ResultsPSSM.xlsx/download.xlsx.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_04_27_bts216.DC1_Supplementary_Material_ISMB2012.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_04_27_bts216.DC1_Supplementary_Material_ISMB2012.xls/download.xls.txt.0 col:10 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_04_27_bts216.DC1_Supplementary_Material_ISMB2012.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_04_27_bts216.DC1_Supplementary_Material_ISMB2012.xls/download.xls.txt.1 col:10 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_05_14_bts274.DC1_Supplementary_Table_5.xls/download.xls.txt.0 col:2 species:Dmelanogaster
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_05_14_bts275.DC1_Supplementary_data_2-69_transcription_factors_by_HGMD.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_05_14_bts275.DC1_Supplementary_data_2-69_transcription_factors_by_HGMD.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_05_14_bts275.DC1_Supplementary_data_2-69_transcription_factors_by_HGMD.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_05_14_bts275.DC1_Supplementary_data_1-Transcription_factors_of_human_genome.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_05_14_bts275.DC1_Supplementary_data_4-Full_rank_of_transcriptio_factors_related_to_bone_mineral_density.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_05_14_bts275.DC1_Supplementary_data_3-Bone_related_genes.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_05_14_bts275.DC1_Supplementary_data_4-Full_rank_of_transcriptio_factors_related_to_bone_mineral_density.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_05_14_bts275.DC1_Supplementary_data_4-Full_rank_of_transcriptio_factors_related_to_bone_mineral_density.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_07_26_bts452.DC1_SpliceSeq_Sim_Results_0504.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_07_26_bts452.DC1_SpliceSeq_Sim_Results_0504.xlsx/download.xlsx.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_03_bts387.DC1_suppl2.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile2.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile2.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile1.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile1.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile1.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile1.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile2.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile2.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile1.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile1.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile2.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile2.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile1.xls/download.xls.txt.3 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile1.xls/download.xls.txt.3 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile1.xls/download.xls.txt.4 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile1.xls/download.xls.txt.4 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile2.xls/download.xls.txt.3 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile2.xls/download.xls.txt.3 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile2.xls/download.xls.txt.4 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2012_10_23_bts617.DC1_SupplementalFile2.xls/download.xls.txt.4 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_02_28_btt101.DC1_btt101_Supplementary_Table_2_-_predicted_genes_for_brain_liver.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_02_28_btt101.DC1_btt101_Supplementary_Table_2_-_predicted_genes_for_brain_liver.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_02_28_btt101.DC1_btt101_Supplementary_Table_2_-_predicted_genes_for_brain_liver.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_02_28_btt101.DC1_btt101_Supplementary_Table_3_-_predicted_genes_for_stage4_vs_stage4S.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_02_28_btt101.DC1_btt101_Supplementary_Table_3_-_predicted_genes_for_stage4_vs_stage4S.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_02_28_btt101.DC1_btt101_Supplementary_Table_3_-_predicted_genes_for_stage4_vs_stage4S.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_03_04_btt111.DC1_supplementaryTables_1-8.xls/download.xls.txt.0 col:2 species:Athaliana
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_03_04_btt111.DC1_supplementaryTables_1-8.xls/download.xls.txt.1 col:2 species:Athaliana
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_03_04_btt111.DC1_supplementaryTables_1-8.xls/download.xls.txt.2 col:2 species:Athaliana
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_03_04_btt111.DC1_supplementaryTables_1-8.xls/download.xls.txt.3 col:2 species:Athaliana
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_03_04_btt111.DC1_supplementaryTables_1-8.xls/download.xls.txt.4 col:2 species:Athaliana
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_03_04_btt111.DC1_supplementaryTables_1-8.xls/download.xls.txt.5 col:2 species:Athaliana
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_03_04_btt111.DC1_supplementaryTables_1-8.xls/download.xls.txt.6 col:2 species:Athaliana
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_03_04_btt111.DC1_supplementaryTables_1-8.xls/download.xls.txt.7 col:2 species:Athaliana
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_05_01_btt246.DC1_Table_S1_and_S2_Significant_results.xlsx/download.xlsx.txt.0 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_05_01_btt246.DC1_Table_S1_and_S2_Significant_results.xlsx/download.xlsx.txt.1 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_06_21_btt365.DC1_SupplementalTable1.xls/download.xls.txt.0 col:1 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_06_21_btt365.DC1_SupplementalTable1.xls/download.xls.txt.0 col:3 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_06_21_btt365.DC1_SupplementalTable2.xls/download.xls.txt.0 col:1 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_06_21_btt365.DC1_SupplementalTable2.xls/download.xls.txt.0 col:3 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_07_02_btt385.DC1_MMuFLR_Supplementary_Tables.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_07_02_btt385.DC1_MMuFLR_Supplementary_Tables.xlsx/download.xlsx.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_07_02_btt385.DC1_MMuFLR_Supplementary_Tables.xlsx/download.xlsx.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_07_02_btt385.DC1_MMuFLR_Supplementary_Tables.xlsx/download.xlsx.txt.3 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_07_21_btt426.DC1_Supplementary_Table_3.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_07_21_btt426.DC1_Supplementary_Table_3.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_07_21_btt426.DC1_Supplementary_Table_3.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_07_21_btt426.DC1_Supplementary_Table_4.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_07_21_btt426.DC1_Supplementary_Table_4.xls/download.xls.txt.1 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_07_21_btt426.DC1_Supplementary_Table_4.xls/download.xls.txt.2 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_07_31_btt445.DC1_fusion_candidates.xlsx/download.xlsx.txt.0 col:4 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/03/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/11
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/10
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/03/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	1-Dec
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/03/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/07
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/12
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/14
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/03/07
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/15
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/03/10
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_07_31_btt445.DC1_fusion_candidates.xlsx/download.xlsx.txt.0 col:5 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/10
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/03/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/11
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/10
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/03/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	1-Dec
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/03/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/07
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/12
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/14
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/03/07
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/15
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/03/10
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	9-Aug
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/07/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/11
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/02
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_07_31_btt445.DC1_fusion_candidates.xlsx/download.xlsx.txt.1 col:4 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/03/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/11
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/10
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/03/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	1-Dec
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/03/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/07
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/12
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/14
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/03/07
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/09/15
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	4	2013/03/10
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_07_31_btt445.DC1_fusion_candidates.xlsx/download.xlsx.txt.1 col:5 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/10
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/03/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/11
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/10
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/03/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	1-Dec
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/03/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/07
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/12
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/14
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/03/07
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/15
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/03/10
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	9-Aug
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/07/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/11
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2013/07/31/btt445.DC1/fusion_candidates.xlsx	5	2013/09/02
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_05_btt596.DC1_Table_S1.xls/download.xls.txt.0 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_05_btt596.DC1_Table_S1.xls/download.xls.txt.0 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_05_btt596.DC1_Table_S2.xls/download.xls.txt.0 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_05_btt596.DC1_Table_S2.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_05_btt596.DC1_Table_S3.xls/download.xls.txt.0 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_05_btt596.DC1_Table_S3.xls/download.xls.txt.0 col:3 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_05_btt596.DC1_Table_S4.xls/download.xls.txt.0 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_05_btt596.DC1_Table_S4.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_05_btt596.DC1_Table_S5.xls/download.xls.txt.0 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_05_btt596.DC1_Table_S5.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_05_btt596.DC1_Table_S6.xls/download.xls.txt.0 col:2 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_05_btt596.DC1_Table_S6.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_18_btt671.DC1_SupplTable3.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_18_btt671.DC1_SupplTable3.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_18_btt671.DC1_SupplTable3.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_20_btt683.DC1_Supplementary_Table_4.xlsx/download.xlsx.txt.0 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_20_btt683.DC1_Supplementary_Table_4.xlsx/download.xlsx.txt.1 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_20_btt683.DC1_Supplementary_Table_4.xlsx/download.xlsx.txt.2 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_23_btt689.DC1_novelmf_163_verified_new_MFplus.xls/download.xls.txt.0 col:1 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2013_11_23_btt689.DC1_novelmf_163_verified_new_MFplus.xls/download.xls.txt.1 col:1 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_01_07_btu003.DC1_SupExcelTable2.xls/download.xls.txt.0 col:7 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_01_07_btu003.DC1_SupExcelTable3.xls/download.xls.txt.0 col:7 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_03_29_btu169.DC1_supplementary_table_3.RV20131013.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_03_29_btu169.DC1_supplementary_table_3.RV20131013.xlsx/download.xlsx.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_03_29_btu169.DC1_supplementary_table_3.RV20131013.xlsx/download.xlsx.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_03_29_btu169.DC1_supplementary_table_3.RV20131013.xlsx/download.xlsx.txt.1 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_03_29_btu169.DC1_supplementary_table_3.RV20131013.xlsx/download.xlsx.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_03_29_btu169.DC1_supplementary_table_3.RV20131013.xlsx/download.xlsx.txt.2 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_05_28_btu361.DC1_SupplementaryTableST2.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_05_28_btu361.DC1_SupplementaryTableST2.xls/download.xls.txt.0 col:4 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_05_28_btu361.DC1_SupplementaryTableST2.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_05_28_btu361.DC1_SupplementaryTableST2.xls/download.xls.txt.1 col:4 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_05_28_btu361.DC1_SupplementaryTableST2.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_05_28_btu361.DC1_SupplementaryTableST2.xls/download.xls.txt.2 col:4 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_06_03_btu373.DC1_TableS1_Mirsynergy_cancer_MiRMs.xlsx/download.xlsx.txt.0 col:16 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_06_03_btu373.DC1_TableS1_Mirsynergy_cancer_MiRMs.xlsx/download.xlsx.txt.1 col:16 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_06_03_btu373.DC1_TableS1_Mirsynergy_cancer_MiRMs.xlsx/download.xlsx.txt.2 col:16 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_06_13_btu276.DC1_Raphael_139_sup_table.xlsx/download.xlsx.txt.0 col:7 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_06_13_btu276.DC1_Raphael_139_sup_table.xlsx/download.xlsx.txt.0 col:8 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_06_13_btu276.DC1_Raphael_139_sup_table.xlsx/download.xlsx.txt.1 col:7 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_06_13_btu276.DC1_Raphael_139_sup_table.xlsx/download.xlsx.txt.1 col:8 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_06_13_btu276.DC1_Raphael_139_sup_table.xlsx/download.xlsx.txt.2 col:7 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_06_13_btu276.DC1_Raphael_139_sup_table.xlsx/download.xlsx.txt.2 col:8 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_06_13_btu276.DC1_Raphael_139_sup_table.xlsx/download.xlsx.txt.3 col:7 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_06_13_btu276.DC1_Raphael_139_sup_table.xlsx/download.xlsx.txt.3 col:8 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_06_13_btu276.DC1_Raphael_139_sup_table.xlsx/download.xlsx.txt.4 col:7 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_06_13_btu276.DC1_Raphael_139_sup_table.xlsx/download.xlsx.txt.4 col:8 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_06_13_btu276.DC1_Raphael_139_sup_table.xlsx/download.xlsx.txt.5 col:7 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_06_13_btu276.DC1_Raphael_139_sup_table.xlsx/download.xlsx.txt.5 col:8 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:7 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:12 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:17 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:22 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:27 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:32 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:37 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:42 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:47 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:52 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:57 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/07/23/btu490.DC1/Table_S1.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/07/23/btu490.DC1/Table_S1.xlsx	57	2014/09/01
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:62 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:67 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:72 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S1.xlsx/download.xlsx.txt.0 col:77 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S2.xlsx/download.xlsx.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_07_23_btu490.DC1_Table_S4.xlsx/download.xlsx.txt.0 col:1 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_08_21_btu570.DC1_TableS3.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_08_21_btu570.DC1_TableS3.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_08_30_btu586.DC1_Itzel_et_al._suppl._fig._2.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_08_30_btu586.DC1_Itzel_et_al._suppl._fig._2.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_09_05_btu603.DC1_Supplementary_Data_1.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	1	2014/03/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	1	2014/09/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	1	2014/09/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	1	2014/03/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	1	2014/03/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	1	2014/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	1	2014/09/11
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	1	2014/09/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	1	2014/03/07
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	1	2014/09/10
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	1	2014/03/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	1	2014/03/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_1.xlsx	1	2014/09/08
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_09_05_btu603.DC1_Supplementary_Data_2.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	1	2014/03/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	1	2014/09/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	1	2014/09/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	1	2014/03/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	1	2014/03/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	1	2014/03/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	1	2014/09/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	1	2014/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	1	2014/09/10
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	1	2014/09/11
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	1	2014/03/07
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	1	2014/03/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_2.xlsx	1	2014/09/08
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_09_05_btu603.DC1_Supplementary_Data_3.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	1	2014/03/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	1	2014/09/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	1	2014/09/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	1	2014/03/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	1	2014/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	1	2014/09/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	1	2014/03/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	1	2014/03/07
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	1	2014/03/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	1	2014/09/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	1	2014/09/10
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	1	2014/03/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_3.xlsx	1	2014/09/11
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_09_05_btu603.DC1_Supplementary_Data_4.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	1	2014/03/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	1	2014/09/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	1	2014/09/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	1	2014/03/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	1	2014/03/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	1	2014/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	1	2014/09/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	1	2014/03/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	1	2014/03/07
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	1	2014/09/10
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	1	2014/09/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	1	2014/09/11
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_4.xlsx	1	2014/03/09
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_09_05_btu603.DC1_Supplementary_Data_5.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	1	2014/03/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	1	2014/09/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	1	2014/09/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	1	2014/03/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	1	2014/03/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	1	2014/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	1	2014/09/10
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	1	2014/09/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	1	2014/03/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	1	2014/09/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	1	2014/03/09
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	1	2014/03/07
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_5.xlsx	1	2014/09/11
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_09_05_btu603.DC1_Supplementary_Data_6.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	1	2014/03/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	1	2014/09/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	1	2014/09/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	1	2014/03/03
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	1	2014/03/05
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	1	2014/09/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	1	2014/09/10
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	1	2014/09/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	1	2014/03/07
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	1	2014/03/06
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	1	2014/09/08
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	1	2014/09/11
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/09/05/btu603.DC1/Supplementary_Data_6.xlsx	1	2014/03/09
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_09_17_btu611.DC1_TableS4.xlsx/download.xlsx.txt.0 col:1 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_09_17_btu611.DC1_TableS4.xlsx/download.xlsx.txt.1 col:1 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_09_17_btu611.DC1_TableS4.xlsx/download.xlsx.txt.2 col:1 species:Ggallus
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_10_06_btu659.DC1_STC_SC4_paper_supp3.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_10_06_btu659.DC1_STC_SC4_paper_supp3.xls/download.xls.txt.0 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_10_06_btu659.DC1_STC_SC4_paper_supp3.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_10_06_btu659.DC1_STC_SC4_paper_supp3.xls/download.xls.txt.1 col:3 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_10_06_btu659.DC1_STC_SC4_paper_supp4.xls/download.xls.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_10_06_btu659.DC1_STC_SC4_paper_supp4.xls/download.xls.txt.0 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_10_06_btu659.DC1_STC_SC4_paper_supp4.xls/download.xls.txt.1 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_10_06_btu659.DC1_STC_SC4_paper_supp4.xls/download.xls.txt.1 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_10_06_btu659.DC1_STC_SC4_paper_supp4.xls/download.xls.txt.2 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_10_06_btu659.DC1_STC_SC4_paper_supp4.xls/download.xls.txt.2 col:2 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_11_14_btu759.DC1_variability-supp-table.xlsx/download.xlsx.txt.0 col:2 species:Scerevisiae
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/02/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/02/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/02/01
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_11_14_btu759.DC1_variability-supp-table.xlsx/download.xlsx.txt.1 col:2 species:Scerevisiae
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/02/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/02/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/02/01
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_11_14_btu759.DC1_variability-supp-table.xlsx/download.xlsx.txt.2 col:2 species:Scerevisiae
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/02/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/02/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/02/01
+http___bioinformatics.oxfordjournals.org___content_suppl_2014_11_14_btu759.DC1_variability-supp-table.xlsx/download.xlsx.txt.3 col:2 species:Scerevisiae
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/02/02
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/10/01
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/02/04
+2016-03-23	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	http://bioinformatics.oxfordjournals.org///content/suppl/2014/11/14/btu759.DC1/variability-supp-table.xlsx	2	2014/02/01
+http___bioinformatics.oxfordjournals.org___content_suppl_2015_05_26_btv329.DC1_SupplementaryTableS1.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
+http___bioinformatics.oxfordjournals.org___content_suppl_2015_05_26_btv329.DC1_SupplementaryTableS2.xlsx/download.xlsx.txt.0 col:1 species:Mmusculus
+http___bioinformatics.oxfordjournals.org___content_suppl_2015_08_12_btv473.DC1_SupplementaryData1.xlsx/download.xlsx.txt.0 col:1 species:Hsapiens
